@@ -1,0 +1,33 @@
+#include "fixed_types.h"
+#include "lock.h"
+
+// subsecond_time_t struct is used for c-linkage cases
+
+#include <cassert>
+#include <iostream>
+
+class SubsecondTime
+{
+	public:
+	   uint64_t m_time;
+	   static const SubsecondTime FS(uint64_t fs = 1) { return fs * SubsecondTime(FS_1); }
+	   static const SubsecondTime PS(uint64_t ps = 1) { return ps * SubsecondTime(PS_1); }
+	   static const SubsecondTime NS(uint64_t ns = 1) { return ns * SubsecondTime(NS_1); }
+	   static const SubsecondTime US(uint64_t us = 1) { return us * SubsecondTime(US_1); }
+	   static const SubsecondTime MS(uint64_t ms = 1) { return ms * SubsecondTime(MS_1); }
+	   static const SubsecondTime SEC(uint64_t sec = 1) { return sec * SubsecondTime(SEC_1); }
+	   static const SubsecondTime Zero() { return SubsecondTime(); }
+	   static const SubsecondTime MaxTime() { return SubsecondTime(0xffffffffffffffffULL); }
+
+	   static const SubsecondTime FSfromFloat(float fs)        { return fs * SubsecondTime(FS_1); }
+	   static const SubsecondTime PSfromFloat(float ps)        { return ps * SubsecondTime(PS_1); }
+	   static const SubsecondTime NSfromFloat(float ns)        { return ns * SubsecondTime(NS_1); }
+	   static const SubsecondTime USfromFloat(float us)        { return us * SubsecondTime(US_1); }
+	   static const SubsecondTime MSfromFloat(float ms)        { return ms * SubsecondTime(MS_1); }
+	   static const SubsecondTime SECfromFloat(float sec)      { return sec * SubsecondTime(SEC_1); }
+
+	   // Public constructors
+	   SubsecondTime()
+	      : m_time(0)
+	   {}
+};

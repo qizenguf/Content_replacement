@@ -1,0 +1,91 @@
+#include <iostream>
+
+
+class Log
+{
+      public:
+	enum ErrorState
+      {
+         None,
+         Warning,
+         Error,
+      };
+      
+	static void log(ErrorState err, SInt32 source_line, const char *format, ...)
+	{
+
+
+	   char message[512];
+
+	 
+	       printf("  [  ]  [%s:%4d]  ", source_file, source_line);
+   
+	}
+};
+
+
+#define __LOG_PRINT(err, file, line, ...)                               \
+   {                                                                    \
+                                                                 \
+            Log::log(err, file, line, __VA_ARGS__)\
+                                                                 \
+   }                                                                    \
+
+#define _LOG_PRINT(err, ...)                                            \
+   {                                                                    \
+   __LOG_PRINT(err,  __LINE__, __VA_ARGS__);                   \
+   }                                                                    \
+
+#define LOG_PRINT(...)                                                  \
+   _LOG_PRINT(Log::None, __VA_ARGS__);                                  \
+
+#define LOG_PRINT_WARNING(...)                  \
+   _LOG_PRINT(Log::Warning, __VA_ARGS__);
+
+#define LOG_PRINT_WARNING_ONCE(...)             \
+   {                                            \
+      static bool already_printed = false;      \
+      if (!already_printed)                     \
+      {                                         \
+         _LOG_PRINT(Log::Warning, __VA_ARGS__); \
+         _LOG_PRINT(Log::Warning, "Future warnings of this type will be suppressed."); \
+         already_printed = true;                \
+      }                                         \
+   }
+
+// _LOG_PRINT(Log::Error) does not return, but the compiler doesn't know this which can result in
+// ''control reaches end of non-void function'' warnings in places where the LOG_PRINT_ASSERT(false) idiom is used.
+// We cannot easily add __attribute__ ((__noreturn__)) to the LOG_PRINT_ERROR macro
+// since that only works on functions, and we have the added complexity of passing the ... argument around.
+// Adding exit() to the end of LOG_PRINT_ERROR effectively makes it inherit exit's __noreturn__
+// which suppresses the warning (even though the exit() itself isn't executed as it's never reached).
+
+#define LOG_PRINT_ERROR(...)                    \
+   {                                            \
+      _LOG_PRINT(Log::Error, __VA_ARGS__);      \
+      exit(-1);                                 \
+   }
+
+#define LOG_ASSERT_WARNING(expr, ...)                   \
+   {                                                    \
+      if (!(expr))                                      \
+      {                                                 \
+         LOG_PRINT_WARNING(__VA_ARGS__);                \
+      }                                                 \
+   }                                                    \
+
+#define LOG_ASSERT_WARNING_ONCE(expr, ...)              \
+   {                                                    \
+      if (!(expr))                                      \
+      {                                                 \
+         LOG_PRINT_WARNING_ONCE(__VA_ARGS__);           \
+      }                                                 \
+   }                                                    \
+
+#define LOG_ASSERT_ERROR(expr, ...)                     \
+   {                                                    \
+      if (!(expr))                                      \
+      {                                                 \
+         LOG_PRINT_ERROR(__VA_ARGS__);                  \
+      }                                                 \
+   }                                                    

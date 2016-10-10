@@ -1,0 +1,2 @@
+g++ cache_main.cc -o a.out -I/media/fd538cb5-97ec-46b1-829f-6aaae01875e3/qi/trace_cache/core/memory_subsystem/ -I/media/fd538cb5-97ec-46b1-829f-6aaae01875e3/qi/trace_cache/core/ -I/media/fd538cb5-97ec-46b1-829f-6aaae01875e3/qi/trace_cache/core/memory_subsystem/cache/ -I/media/fd538cb5-97ec-46b1-829f-6aaae01875e3/qi/trace_cache/network/ -I/media/fd538cb5-97ec-46b1-829f-6aaae01875e3/qi/trace_cache/misc -I/media/fd538cb5-97ec-46b1-829f-6aaae01875e3/qi/trace_cache/performance_model -std=c++0x
+

@@ -1,0 +1,1094 @@
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+Reading trace from:trace-astar
+Reading trace from:trace-mcf
+Reading trace from:trace-libquantum
+Reading trace from:trace-perlbench
+sec size = 1
+Reading trace from:trace-h264
+Reading trace from:trace-gobmk
+Reading trace from:trace-leslie3d
+sec size = 1
+Reading trace from:trace-sphinx3
+Reading trace from:trace-hmmer
+Reading trace from:trace-gcc
+Reading trace from:trace-bzip2
+Reading trace from:trace-milc
+Reading trace from:trace-xalancbmk
+Reading trace from:trace-lbm
+Reading trace from:trace-soplex
+Reading trace from:trace-bwaves
+trace-xalancbmk at 1 switched to plru inf diff 401 p 0 n 401
+trace-bwaves at 1 switched to plru inf diff 217 p 0 n 217
+trace-perlbench at 2 switched to plru 2.39062 diff 1071 p 448 n 1519
+trace-mcf at 2 switched to plru 0.114259 diff 121 p 1059 n 1180
+trace-bwaves at 2 switched to nlru 0.156916 diff 13520 p 99681 n 86161
+trace-gcc at 2 switched to plru 0.141129 diff 7734 p 54801 n 62535
+trace-libquantum at 2 switched to plru 0.774114 diff 6292 p 8128 n 14420
+trace-mcf at 3 switched to nlru 0.0919862 diff 1809 p 21475 n 19666
+trace-soplex at 5 switched to plru 0.391389 diff 1000 p 2555 n 3555
+trace-mcf at 4 switched to plru 0.131213 diff 3524 p 26857 n 30381
+trace-astar at 3 switched to plru 568.837 diff 83619 p 147 n 83766
+bad input here
+trace-gcc at 4 switched to nlru 0.226066 diff 8508 p 46143 n 37635
+trace-hmmer at 6 switched to plru 0.0705287 diff 4708 p 66753 n 71461
+trace-soplex at 7 switched to nlru 0.221815 diff 3878 p 21361 n 17483
+trace-lbm at 6 switched to plru 0.549467 diff 10508 p 19124 n 29632
+trace-perlbench at 7 switched to nlru 0.425037 diff 22640 p 75906 n 53266
+trace-gcc at 5 switched to plru 0.183853 diff 5299 p 28822 n 34121
+trace-sphinx3 at 5 switched to plru 1.33275 diff 126822 p 95158 n 221980
+trace-perlbench at 8 switched to plru 1.22453 diff 30007 p 24505 n 54512
+trace-mcf at 7 switched to nlru 0.119188 diff 3299 p 30978 n 27679
+trace-perlbench at 10 switched to nlru 0.113018 diff 3997 p 39363 n 35366
+trace-mcf at 8 switched to plru 0.514774 diff 8467 p 16448 n 24915
+trace-lbm at 9 switched to nlru 0.103117 diff 3087 p 33024 n 29937
+count 1000000
+trace-soplex at 14 switched to nlru 0.0866256 diff 7194 p 90241 n 83047
+trace-perlbench at 12 switched to plru 0.196766 diff 9602 p 48799 n 58401
+trace-sphinx3 at 10 switched to plru 55.2518 diff 278414 p 5039 n 283453
+trace-lbm at 15 switched to nlru 0.441746 diff 11697 p 38176 n 26479
+bad input here
+trace-soplex at 16 switched to plru 0.762485 diff 27361 p 35884 n 63245
+trace-sphinx3 at 13 switched to nlru 0.470436 diff 40227 p 125737 n 85510
+trace-h264 at 28 switched to plru inf diff 132 p 0 n 132
+bad input here
+trace-sphinx3 at 14 switched to plru 3.38865 diff 188995 p 55773 n 244768
+count 1000000
+bad input here
+trace-h264 at 30 switched to nlru inf diff 348 p 348 n 0
+trace-perlbench at 14 switched to nlru 0.282258 diff 8435 p 38319 n 29884
+trace-gobmk at 22 switched to plru 0.16555 diff 840 p 5074 n 5914
+trace-milc at 18 switched to plru 0.0886405 diff 17146 p 193433 n 210579
+count 1000000
+count 1000000
+trace-bzip2 at 23 switched to nlru 1.42378 diff 11497 p 19572 n 8075
+trace-mcf at 16 switched to plru 1.6585 diff 15570 p 9388 n 24958
+trace-hmmer at 24 switched to nlru 2.09736 diff 6915 p 10212 n 3297
+trace-milc at 19 switched to nlru 0.0920355 diff 18035 p 213992 n 195957
+trace-gobmk at 24 switched to nlru 0.312066 diff 4671 p 19639 n 14968
+trace-hmmer at 25 switched to plru 21.803 diff 23024 p 1056 n 24080
+bad input here
+count 1000000
+trace-gcc at 16 switched to plru 0.145306 diff 9232 p 63535 n 72767
+trace-sphinx3 at 17 switched to nlru 0.149876 diff 19245 p 147651 n 128406
+trace-perlbench at 17 switched to plru 0.18735 diff 8649 p 46165 n 54814
+trace-mcf at 18 switched to nlru 0.298984 diff 8182 p 35548 n 27366
+trace-astar at 26 switched to nlru 0.269407 diff 12879 p 60684 n 47805
+trace-sphinx3 at 18 switched to plru 0.422419 diff 48269 p 114268 n 162537
+trace-mcf at 19 switched to plru 0.494567 diff 9877 p 19971 n 29848
+count 2000000
+count 1000000
+count 1000000
+trace-mcf at 21 switched to nlru 0.0791771 diff 2394 p 32630 n 30236
+trace-gcc at 19 switched to nlru 0.548203 diff 26948 p 76105 n 49157
+count 1000000
+count 1000000
+count 1000000
+trace-astar at 29 switched to plru 0.0572899 diff 8073 p 140915 n 148988
+trace-leslie3d at 22 switched to nlru 1.77333 diff 399 p 624 n 225
+trace-bzip2 at 30 switched to nlru 0.523964 diff 1290 p 3752 n 2462
+trace-sphinx3 at 21 switched to nlru 0.0700057 diff 14493 p 221519 n 207026
+trace-mcf at 23 switched to nlru 0.749103 diff 15872 p 37060 n 21188
+trace-perlbench at 23 switched to plru 0.752108 diff 28541 p 37948 n 66489
+trace-leslie3d at 23 switched to plru 0.301648 diff 35884 p 118960 n 154844
+trace-bzip2 at 31 switched to plru 2.73117 diff 1849 p 677 n 2526
+trace-astar at 30 switched to nlru 0.0988131 diff 11814 p 131373 n 119559
+trace-soplex at 27 switched to nlru 0.186924 diff 4017 p 25507 n 21490
+trace-perlbench at 25 switched to nlru 0.415193 diff 22677 p 77295 n 54618
+trace-sphinx3 at 23 switched to plru 15.5075 diff 250834 p 16175 n 267009
+trace-perlbench at 26 switched to plru 2.85105 diff 43239 p 15166 n 58405
+trace-gobmk at 39 switched to plru 0.667728 diff 4823 p 7223 n 12046
+count 2000000
+trace-gobmk at 40 switched to nlru 0.634726 diff 2749 p 7080 n 4331
+trace-mcf at 27 switched to nlru 0.162406 diff 3672 p 26282 n 22610
+trace-astar at 32 switched to plru 0.26262 diff 26819 p 102121 n 128940
+trace-perlbench at 28 switched to nlru 0.52864 diff 25389 p 73416 n 48027
+trace-milc at 28 switched to plru 0.134626 diff 23345 p 173406 n 196751
+trace-h264 at 50 switched to plru 0.230273 diff 1392 p 6045 n 7437
+trace-mcf at 28 switched to plru 1.7174 diff 15199 p 8850 n 24049
+count 2000000
+trace-sphinx3 at 26 switched to nlru 0.422722 diff 34451 p 115949 n 81498
+trace-milc at 29 switched to nlru 0.0659793 diff 13169 p 212762 n 199593
+trace-h264 at 51 switched to nlru 1.70921 diff 2357 p 3736 n 1379
+trace-perlbench at 29 switched to plru 0.423247 diff 18043 p 42630 n 60673
+trace-sphinx3 at 27 switched to plru 1.23336 diff 117073 p 94922 n 211995
+trace-mcf at 30 switched to nlru 0.349175 diff 5143 p 19872 n 14729
+bad input here
+trace-xalancbmk at 39 switched to nlru 0.321576 diff 2644 p 10866 n 8222
+count 2000000
+count 2000000
+trace-leslie3d at 32 switched to nlru 0.208814 diff 32986 p 190954 n 157968
+trace-perlbench at 32 switched to nlru 0.689139 diff 25514 p 62537 n 37023
+count 2000000
+trace-mcf at 32 switched to plru 0.956572 diff 12291 p 12849 n 25140
+trace-sphinx3 at 30 switched to nlru 0.104928 diff 17456 p 183818 n 166362
+bad input here
+trace-xalancbmk at 41 switched to plru 0.245244 diff 2037 p 8306 n 10343
+trace-mcf at 35 switched to nlru 0.340359 diff 8026 p 31607 n 23581
+trace-xalancbmk at 42 switched to nlru 0.167313 diff 3278 p 22870 n 19592
+trace-sphinx3 at 32 switched to plru 51.6683 diff 271465 p 5254 n 276719
+trace-perlbench at 34 switched to plru 2.94121 diff 50330 p 17112 n 67442
+trace-hmmer at 52 switched to nlru 0.784047 diff 8601 p 19571 n 10970
+trace-mcf at 36 switched to plru 0.926208 diff 11447 p 12359 n 23806
+count 2000000
+count 2000000
+trace-hmmer at 53 switched to plru 2.98929 diff 5862 p 1961 n 7823
+trace-xalancbmk at 44 switched to plru 0.0597848 diff 1317 p 22029 n 23346
+trace-perlbench at 36 switched to nlru 0.382248 diff 20490 p 74094 n 53604
+count 3000000
+trace-sphinx3 at 34 switched to nlru 0.0588877 diff 14620 p 262889 n 248269
+trace-mcf at 38 switched to nlru 0.0993432 diff 3282 p 36319 n 33037
+trace-perlbench at 37 switched to plru 0.934732 diff 31006 p 33171 n 64177
+trace-hmmer at 55 switched to nlru 0.253335 diff 4785 p 23673 n 18888
+count 2000000
+trace-hmmer at 56 switched to plru 16.083 diff 11435 p 711 n 12146
+trace-mcf at 39 switched to plru 0.389289 diff 6215 p 15965 n 22180
+trace-xalancbmk at 46 switched to nlru 0.222379 diff 6610 p 36334 n 29724
+trace-hmmer at 57 switched to nlru 0.745356 diff 8266 p 19356 n 11090
+trace-perlbench at 39 switched to nlru 0.527553 diff 26432 p 76535 n 50103
+trace-xalancbmk at 47 switched to plru 1.22489 diff 20256 p 16537 n 36793
+count 2000000
+count 2000000
+bad input here
+count 2000000
+trace-perlbench at 40 switched to plru 0.512452 diff 24630 p 48063 n 72693
+trace-mcf at 41 switched to nlru 0.479593 diff 9941 p 30669 n 20728
+trace-sphinx3 at 37 switched to plru 0.193539 diff 28761 p 148606 n 177367
+trace-hmmer at 59 switched to plru 3.20674 diff 7042 p 2196 n 9238
+trace-astar at 44 switched to nlru 0.0764528 diff 4715 p 66387 n 61672
+count 3000000
+trace-hmmer at 60 switched to nlru 2.03034 diff 13853 p 20676 n 6823
+trace-sphinx3 at 38 switched to nlru 0.762471 diff 60239 p 139244 n 79005
+count 3000000
+count 2000000
+trace-soplex at 42 switched to plru 0.801158 diff 27394 p 34193 n 61587
+bad input here
+trace-hmmer at 61 switched to plru 10.4717 diff 8147 p 778 n 8925
+trace-xalancbmk at 50 switched to nlru 0.294753 diff 3932 p 17272 n 13340
+trace-perlbench at 42 switched to nlru 0.0604185 diff 3182 p 55848 n 52666
+trace-xalancbmk at 51 switched to plru 0.274172 diff 2623 p 9567 n 12190
+trace-perlbench at 43 switched to plru 0.958959 diff 32338 p 33722 n 66060
+trace-leslie3d at 41 switched to plru 0.471647 diff 58206 p 123410 n 181616
+trace-soplex at 44 switched to nlru 0.0791169 diff 4766 p 65006 n 60240
+count 2000000
+trace-xalancbmk at 52 switched to nlru 0.145259 diff 1754 p 13829 n 12075
+trace-hmmer at 63 switched to nlru 3.19613 diff 13200 p 17330 n 4130
+count 2000000
+trace-soplex at 45 switched to plru 0.0915956 diff 6271 p 68464 n 74735
+trace-hmmer at 64 switched to plru 15.1828 diff 8806 p 580 n 9386
+trace-mcf at 44 switched to plru 1.20084 diff 12825 p 10680 n 23505
+trace-hmmer at 65 switched to nlru 3.71678 diff 13176 p 16721 n 3545
+trace-sphinx3 at 41 switched to plru 1.26973 diff 125477 p 98822 n 224299
+trace-bzip2 at 57 switched to nlru 0.451291 diff 3757 p 12082 n 8325
+trace-perlbench at 45 switched to nlru 1.20288 diff 46899 p 85888 n 38989
+trace-leslie3d at 43 switched to nlru 0.151982 diff 27615 p 209314 n 181699
+trace-sphinx3 at 42 switched to nlru 0.13747 diff 33422 p 276544 n 243122
+trace-mcf at 46 switched to nlru 0.365703 diff 8895 p 33218 n 24323
+bad input here
+count 3000000
+trace-sphinx3 at 43 switched to plru 0.990462 diff 94084 p 94990 n 189074
+trace-hmmer at 69 switched to plru 0.0741785 diff 526 p 7091 n 7617
+trace-xalancbmk at 56 switched to plru 0.270666 diff 3497 p 12920 n 16417
+trace-perlbench at 47 switched to plru 1.0094 diff 26850 p 26600 n 53450
+trace-mcf at 47 switched to plru 1.39267 diff 14013 p 10062 n 24075
+trace-hmmer at 70 switched to nlru 14.7178 diff 11524 p 12307 n 783
+trace-gcc at 56 switched to plru 0.582163 diff 829 p 1424 n 2253
+trace-gcc at 57 switched to nlru 36.7576 diff 2426 p 2492 n 66
+trace-hmmer at 71 switched to plru 1.96602 diff 2025 p 1030 n 3055
+trace-milc at 44 switched to plru 0.171773 diff 16533 p 96249 n 112782
+trace-sphinx3 at 45 switched to nlru 0.342702 diff 55039 p 215642 n 160603
+trace-perlbench at 49 switched to nlru 0.127007 diff 7350 p 65221 n 57871
+trace-mcf at 49 switched to nlru 0.478132 diff 13359 p 41299 n 27940
+trace-perlbench at 50 switched to plru 2.79032 diff 43222 p 15490 n 58712
+count 3000000
+trace-sphinx3 at 46 switched to plru 1.7037 diff 135516 p 79542 n 215058
+trace-bzip2 at 65 switched to plru 0.098402 diff 234 p 2378 n 2612
+trace-mcf at 50 switched to plru 0.89367 diff 10363 p 11596 n 21959
+count 3000000
+trace-bzip2 at 66 switched to nlru 0.991765 diff 1686 p 3386 n 1700
+count 2000000
+trace-sphinx3 at 47 switched to nlru 0.240792 diff 54746 p 282104 n 227358
+trace-bzip2 at 67 switched to plru 3.27232 diff 733 p 224 n 957
+count 4000000
+trace-mcf at 52 switched to nlru 0.622548 diff 12728 p 33173 n 20445
+trace-sphinx3 at 48 switched to plru 0.470678 diff 53060 p 112731 n 165791
+trace-xalancbmk at 62 switched to nlru 0.262279 diff 3300 p 15882 n 12582
+trace-perlbench at 54 switched to nlru 0.67244 diff 32109 p 79859 n 47750
+trace-soplex at 54 switched to nlru 4.19444 diff 37297 p 46189 n 8892
+trace-xalancbmk at 63 switched to plru 0.0923438 diff 3780 p 40934 n 44714
+trace-astar at 56 switched to plru 0.232001 diff 14127 p 60892 n 75019
+done
+trace-hmmer at 79 switched to nlru 14.5175 diff 19497 p 20840 n 1343
+trace-gobmk at 78 switched to nlru 0.434532 diff 6780 p 22383 n 15603
+trace-sphinx3 at 50 switched to nlru 0.0957244 diff 25554 p 292508 n 266954
+count 3000000
+count 4000000
+bad input here
+trace-soplex at 56 switched to plru 1.25896 diff 12791 p 10160 n 22951
+count 4000000
+trace-mcf at 55 switched to nlru 2.71759 diff 24404 p 33384 n 8980
+trace-xalancbmk at 66 switched to nlru 0.304522 diff 5320 p 22790 n 17470
+trace-soplex at 57 switched to nlru 0.306168 diff 26580 p 113395 n 86815
+trace-sphinx3 at 52 switched to plru 4.19728 diff 215841 p 51424 n 267265
+count 3000000
+trace-sphinx3 at 53 switched to nlru 0.301013 diff 53415 p 230866 n 177451
+trace-soplex at 58 switched to plru 0.208124 diff 16144 p 77569 n 93713
+trace-xalancbmk at 68 switched to plru 1.1574 diff 36126 p 31213 n 67339
+bad input here
+count 3000000
+trace-hmmer at 86 switched to plru 1.12763 diff 18377 p 16297 n 34674
+trace-mcf at 58 switched to plru 1.15043 diff 11410 p 9918 n 21328
+trace-hmmer at 87 switched to nlru 3.43722 diff 2327 p 3004 n 677
+trace-sphinx3 at 54 switched to plru 0.236838 diff 38612 p 163031 n 201643
+trace-hmmer at 88 switched to plru 47.9496 diff 66650 p 1390 n 68040
+count 3000000
+bad input here
+count 4000000
+trace-hmmer at 89 switched to nlru 0.156869 diff 2818 p 20782 n 17964
+count 3000000
+trace-hmmer at 90 switched to plru 54.6121 diff 15346 p 281 n 15627
+trace-mcf at 61 switched to nlru 0.227124 diff 7511 p 40581 n 33070
+trace-sphinx3 at 56 switched to nlru 0.222416 diff 47143 p 259102 n 211959
+trace-hmmer at 91 switched to nlru 1.7684 diff 12759 p 19974 n 7215
+trace-mcf at 62 switched to plru 1.25311 diff 14486 p 11560 n 26046
+trace-hmmer at 92 switched to plru 3.80017 diff 4431 p 1166 n 5597
+trace-astar at 65 switched to nlru 0.0784166 diff 4467 p 61432 n 56965
+trace-hmmer at 93 switched to nlru 0.894533 diff 5072 p 10742 n 5670
+count 3000000
+trace-hmmer at 95 switched to plru 7.04596 diff 5059 p 718 n 5777
+trace-mcf at 65 switched to nlru 0.191083 diff 4663 p 29066 n 24403
+trace-hmmer at 96 switched to nlru 14.0903 diff 18247 p 19542 n 1295
+trace-milc at 62 switched to nlru 0.555444 diff 27144 p 76013 n 48869
+trace-hmmer at 97 switched to plru 7.11392 diff 4496 p 632 n 5128
+trace-bzip2 at 89 switched to nlru 0.366382 diff 4161 p 15518 n 11357
+count 3000000
+trace-mcf at 66 switched to plru 0.9205 diff 10166 p 11044 n 21210
+trace-hmmer at 98 switched to nlru 8.9525 diff 17341 p 19278 n 1937
+count 5000000
+trace-h264 at 100 switched to plru 0.153556 diff 6959 p 45319 n 52278
+trace-hmmer at 99 switched to plru 2.88556 diff 2597 p 900 n 3497
+count 3000000
+trace-xalancbmk at 76 switched to nlru 0.0896505 diff 1198 p 14561 n 13363
+count 5000000
+trace-hmmer at 100 switched to nlru 16.0234 diff 17834 p 18947 n 1113
+trace-h264 at 101 switched to nlru 0.117532 diff 3665 p 34848 n 31183
+trace-sphinx3 at 61 switched to plru 10.6858 diff 249632 p 23361 n 272993
+trace-mcf at 69 switched to nlru 0.262122 diff 6568 p 31625 n 25057
+trace-xalancbmk at 77 switched to plru 0.145048 diff 3981 p 27446 n 31427
+trace-hmmer at 101 switched to plru 2.43558 diff 2382 p 978 n 3360
+trace-astar at 70 switched to plru 0.199196 diff 14463 p 72607 n 87070
+trace-leslie3d at 62 switched to plru 0.0812205 diff 9178 p 113001 n 122179
+trace-sphinx3 at 63 switched to nlru 0.217123 diff 39207 p 219782 n 180575
+trace-mcf at 70 switched to plru 1.6486 diff 15876 p 9630 n 25506
+trace-hmmer at 102 switched to nlru 0.626313 diff 12815 p 33276 n 20461
+trace-h264 at 103 switched to plru 0.861428 diff 23604 p 27401 n 51005
+trace-xalancbmk at 79 switched to nlru 0.0564997 diff 625 p 11687 n 11062
+trace-h264 at 105 switched to nlru 1.90846 diff 15386 p 23448 n 8062
+trace-hmmer at 104 switched to plru 6.53525 diff 13162 p 2014 n 15176
+bad input here
+trace-mcf at 72 switched to nlru 0.320745 diff 8179 p 33679 n 25500
+count 5000000
+trace-mcf at 73 switched to plru 0.544988 diff 8710 p 15982 n 24692
+trace-bzip2 at 99 switched to plru 2.32044 diff 840 p 362 n 1202
+trace-leslie3d at 66 switched to nlru 0.364685 diff 32128 p 120226 n 88098
+bad input here
+trace-sphinx3 at 66 switched to nlru 0.0712775 diff 19349 p 290809 n 271460
+trace-xalancbmk at 82 switched to plru 0.196419 diff 6143 p 31275 n 37418
+count 5000000
+trace-sphinx3 at 68 switched to plru 5.68898 diff 215874 p 37946 n 253820
+trace-soplex at 71 switched to nlru 2.24652 diff 18372 p 26550 n 8178
+trace-mcf at 76 switched to nlru 0.289651 diff 6947 p 30931 n 23984
+count 5000000
+trace-milc at 70 switched to plru 0.052988 diff 10095 p 190515 n 200610
+trace-mcf at 77 switched to plru 0.0879704 diff 1924 p 21871 n 23795
+trace-sphinx3 at 70 switched to nlru 0.0928306 diff 23224 p 273400 n 250176
+count 4000000
+count 4000000
+trace-mcf at 80 switched to nlru 0.616561 diff 15718 p 41211 n 25493
+trace-gobmk at 111 switched to plru 0.0545512 diff 869 p 15930 n 16799
+count 4000000
+trace-xalancbmk at 88 switched to nlru 0.76365 diff 14378 p 33206 n 18828
+trace-sphinx3 at 72 switched to plru 18.1359 diff 248951 p 13727 n 262678
+trace-gobmk at 112 switched to nlru 0.938116 diff 6382 p 13185 n 6803
+count 4000000
+trace-mcf at 81 switched to plru 1.30483 diff 14267 p 10934 n 25201
+trace-mcf at 82 switched to nlru 0.0510398 diff 1340 p 27594 n 26254
+trace-sphinx3 at 74 switched to nlru 0.0893749 diff 19854 p 241997 n 222143
+bad input here
+trace-xalancbmk at 89 switched to plru 1.01815 diff 12844 p 12615 n 25459
+count 3000000
+trace-gobmk at 115 switched to plru 0.062044 diff 1216 p 19599 n 20815
+trace-mcf at 84 switched to plru 2.82347 diff 18217 p 6452 n 24669
+trace-gobmk at 116 switched to nlru 0.280365 diff 2950 p 13472 n 10522
+trace-mcf at 85 switched to nlru 0.710636 diff 12908 p 31072 n 18164
+trace-sphinx3 at 76 switched to plru 10.6266 diff 248695 p 23403 n 272098
+bad input here
+count 4000000
+trace-mcf at 86 switched to plru 0.749086 diff 6759 p 9023 n 15782
+bad input here
+count 6000000
+count 6000000
+trace-mcf at 87 switched to nlru 1.60315 diff 22800 p 37022 n 14222
+trace-soplex at 81 switched to plru 1.10107 diff 9543 p 8667 n 18210
+count 6000000
+trace-sphinx3 at 78 switched to nlru 0.112874 diff 23438 p 231085 n 207647
+bad input here
+count 4000000
+trace-xalancbmk at 92 switched to nlru 0.10526 diff 3762 p 39502 n 35740
+count 6000000
+trace-soplex at 82 switched to nlru 0.261459 diff 16411 p 79178 n 62767
+trace-mcf at 90 switched to plru 0.904112 diff 9938 p 10992 n 20930
+count 4000000
+trace-sphinx3 at 80 switched to plru 13.4976 diff 252445 p 18703 n 271148
+count 4000000
+trace-xalancbmk at 93 switched to plru 1.13566 diff 12708 p 11190 n 23898
+bad input here
+trace-mcf at 92 switched to nlru 0.373119 diff 10191 p 37504 n 27313
+count 6000000
+trace-bzip2 at 123 switched to nlru 1.4852 diff 5920 p 9906 n 3986
+trace-soplex at 84 switched to plru 0.825461 diff 28187 p 34147 n 62334
+trace-sphinx3 at 82 switched to nlru 0.0896408 diff 19507 p 237120 n 217613
+trace-mcf at 93 switched to plru 0.931298 diff 10831 p 11630 n 22461
+trace-xalancbmk at 97 switched to nlru 1.65066 diff 17048 p 27376 n 10328
+trace-xalancbmk at 98 switched to plru 0.342383 diff 2661 p 7772 n 10433
+done
+trace-mcf at 95 switched to nlru 0.236304 diff 5806 p 30376 n 24570
+trace-sphinx3 at 84 switched to plru 18.5361 diff 257392 p 13886 n 271278
+trace-xalancbmk at 99 switched to nlru 0.595539 diff 7343 p 19673 n 12330
+bad input here
+trace-mcf at 96 switched to plru 1.01109 diff 11761 p 11632 n 23393
+trace-milc at 87 switched to nlru 0.0799905 diff 14774 p 199471 n 184697
+count 5000000
+trace-bzip2 at 128 switched to plru 0.0970416 diff 1358 p 13994 n 15352
+trace-soplex at 89 switched to nlru 19.0729 diff 47339 p 49821 n 2482
+trace-sphinx3 at 86 switched to nlru 0.117326 diff 26144 p 248976 n 222832
+trace-milc at 88 switched to plru 0.0980232 diff 17990 p 183528 n 201518
+trace-bzip2 at 129 switched to nlru 0.388177 diff 1182 p 4227 n 3045
+trace-xalancbmk at 101 switched to plru 1.04814 diff 12934 p 12340 n 25274
+trace-soplex at 94 switched to plru 1.09047 diff 11198 p 10269 n 21467
+count 7000000
+trace-bzip2 at 130 switched to plru 2.93921 diff 2466 p 839 n 3305
+trace-mcf at 98 switched to nlru 0.129263 diff 3108 p 27152 n 24044
+trace-soplex at 95 switched to nlru 0.82945 diff 46747 p 103106 n 56359
+trace-milc at 89 switched to nlru 0.0554516 diff 10080 p 191860 n 181780
+trace-bzip2 at 132 switched to nlru 0.815397 diff 2023 p 4504 n 2481
+trace-sphinx3 at 88 switched to plru 20.0044 diff 252055 p 12600 n 264655
+trace-milc at 90 switched to plru 0.121427 diff 21884 p 180224 n 202108
+trace-bzip2 at 133 switched to plru 7.38971 diff 3015 p 408 n 3423
+trace-leslie3d at 88 switched to plru 0.175884 diff 1482 p 8426 n 9908
+trace-hmmer at 138 switched to plru 4.21206 diff 4469 p 1061 n 5530
+count 5000000
+trace-mcf at 100 switched to plru 1.24387 diff 13246 p 10649 n 23895
+trace-soplex at 97 switched to plru 0.74105 diff 25212 p 34022 n 59234
+trace-hmmer at 139 switched to nlru 2.66386 diff 15485 p 21298 n 5813
+trace-leslie3d at 89 switched to nlru 1.12281 diff 256 p 484 n 228
+bad input here
+count 7000000
+trace-xalancbmk at 107 switched to nlru 0.174912 diff 2694 p 18096 n 15402
+trace-sphinx3 at 90 switched to nlru 0.0950023 diff 22756 p 262287 n 239531
+count 5000000
+count 5000000
+trace-hmmer at 142 switched to plru 2.41942 diff 4984 p 2060 n 7044
+count 5000000
+bad input here
+trace-hmmer at 143 switched to nlru 5.54523 diff 18205 p 21488 n 3283
+trace-xalancbmk at 108 switched to plru 0.350829 diff 6517 p 18576 n 25093
+trace-hmmer at 144 switched to plru 0.119655 diff 596 p 4981 n 5577
+trace-mcf at 103 switched to nlru 0.957888 diff 19107 p 39054 n 19947
+trace-sphinx3 at 92 switched to plru 7.44794 diff 227192 p 30504 n 257696
+trace-hmmer at 145 switched to nlru 114.971 diff 15981 p 16120 n 139
+count 7000000
+count 7000000
+count 5000000
+trace-sphinx3 at 94 switched to nlru 0.0649357 diff 17852 p 292770 n 274918
+trace-sphinx3 at 96 switched to plru 2.75188 diff 171222 p 62220 n 233442
+trace-mcf at 106 switched to nlru 0.63269 diff 13482 p 34791 n 21309
+trace-mcf at 107 switched to plru 1.14706 diff 11497 p 10023 n 21520
+count 5000000
+trace-astar at 108 switched to nlru 0.0756211 diff 3802 p 54079 n 50277
+trace-xalancbmk at 114 switched to plru 0.229163 diff 4773 p 20828 n 25601
+trace-sphinx3 at 99 switched to nlru 0.472739 diff 47212 p 147081 n 99869
+trace-xalancbmk at 116 switched to nlru 0.488736 diff 12127 p 36940 n 24813
+count 5000000
+trace-sphinx3 at 100 switched to plru 1.11934 diff 107294 p 95855 n 203149
+trace-xalancbmk at 117 switched to plru 0.414948 diff 6862 p 16537 n 23399
+trace-mcf at 110 switched to nlru 0.222466 diff 5377 p 29547 n 24170
+trace-hmmer at 157 switched to plru 3.22317 diff 5315 p 1649 n 6964
+trace-astar at 111 switched to plru 0.0961242 diff 4918 p 51163 n 56081
+count 5000000
+trace-hmmer at 158 switched to nlru 2.54476 diff 15948 p 22215 n 6267
+trace-mcf at 111 switched to plru 1.50222 diff 14899 p 9918 n 24817
+count 4000000
+count 8000000
+trace-sphinx3 at 102 switched to nlru 0.0560448 diff 15896 p 299526 n 283630
+trace-bzip2 at 156 switched to nlru 1.07843 diff 9680 p 18656 n 8976
+count 8000000
+trace-hmmer at 160 switched to plru 3.09868 diff 3768 p 1216 n 4984
+done
+count 6000000
+trace-hmmer at 161 switched to nlru 4.77056 diff 14908 p 18033 n 3125
+trace-mcf at 113 switched to nlru 0.233132 diff 5829 p 30832 n 25003
+trace-sphinx3 at 104 switched to plru 0.353805 diff 39814 p 112531 n 152345
+trace-xalancbmk at 121 switched to nlru 0.10481 diff 1778 p 18742 n 16964
+trace-xalancbmk at 122 switched to plru 0.393816 diff 3566 p 9055 n 12621
+trace-mcf at 114 switched to plru 0.997778 diff 10328 p 10351 n 20679
+trace-soplex at 108 switched to nlru 0.372328 diff 7002 p 25808 n 18806
+count 8000000
+trace-xalancbmk at 124 switched to nlru 0.0958788 diff 2950 p 33718 n 30768
+trace-mcf at 115 switched to nlru 0.0735517 diff 1893 p 27630 n 25737
+trace-xalancbmk at 125 switched to plru 0.878715 diff 12034 p 13695 n 25729
+trace-sphinx3 at 107 switched to nlru 0.120618 diff 22769 p 211539 n 188770
+trace-mcf at 117 switched to plru 0.236479 diff 4604 p 19469 n 24073
+trace-hmmer at 166 switched to plru 0.527485 diff 902 p 1710 n 2612
+trace-astar at 117 switched to nlru 1.68176 diff 29779 p 47486 n 17707
+count 8000000
+trace-mcf at 118 switched to nlru 0.188779 diff 4179 p 26316 n 22137
+trace-hmmer at 167 switched to nlru 6.43825 diff 16527 p 19094 n 2567
+count 6000000
+count 6000000
+trace-astar at 118 switched to plru 0.161589 diff 3405 p 21072 n 24477
+trace-milc at 113 switched to nlru 0.217568 diff 13199 p 73865 n 60666
+trace-bzip2 at 166 switched to plru 2.68151 diff 783 p 292 n 1075
+count 6000000
+trace-xalancbmk at 128 switched to nlru 0.322789 diff 6184 p 25342 n 19158
+trace-hmmer at 171 switched to plru 0.605212 diff 1254 p 2072 n 3326
+trace-leslie3d at 111 switched to plru 0.1547 diff 19241 p 124376 n 143617
+trace-sphinx3 at 111 switched to nlru 0.0963932 diff 22166 p 252120 n 229954
+trace-mcf at 122 switched to nlru 0.0927447 diff 2338 p 27547 n 25209
+trace-astar at 121 switched to nlru 0.326951 diff 8555 p 34721 n 26166
+trace-xalancbmk at 129 switched to plru 0.428825 diff 4838 p 11282 n 16120
+trace-hmmer at 172 switched to nlru 16.5848 diff 20333 p 21559 n 1226
+trace-hmmer at 173 switched to plru 3.08274 diff 2161 p 701 n 2862
+trace-leslie3d at 113 switched to nlru 0.059333 diff 8502 p 151795 n 143293
+trace-hmmer at 174 switched to nlru 12.8762 diff 19443 p 20953 n 1510
+trace-sphinx3 at 113 switched to plru 5.68719 diff 219315 p 38563 n 257878
+trace-mcf at 124 switched to plru 1.07621 diff 12653 p 11757 n 24410
+trace-hmmer at 175 switched to plru 0.244722 diff 510 p 2084 n 2594
+bad input here
+trace-xalancbmk at 130 switched to nlru 0.0948295 diff 2177 p 25134 n 22957
+trace-hmmer at 176 switched to nlru 6.52505 diff 12763 p 14719 n 1956
+trace-mcf at 126 switched to nlru 0.589515 diff 13876 p 37414 n 23538
+trace-hmmer at 178 switched to plru 0.549034 diff 1450 p 2641 n 4091
+trace-sphinx3 at 115 switched to nlru 0.0656588 diff 18146 p 294514 n 276368
+trace-mcf at 127 switched to plru 0.579378 diff 8569 p 14790 n 23359
+trace-hmmer at 179 switched to nlru 8.48033 diff 20268 p 22658 n 2390
+count 6000000
+count 9000000
+trace-hmmer at 180 switched to plru 2.23982 diff 2036 p 909 n 2945
+trace-hmmer at 181 switched to nlru 7.95121 diff 19393 p 21832 n 2439
+trace-milc at 118 switched to plru 0.501562 diff 47833 p 95368 n 143201
+trace-mcf at 130 switched to nlru 0.251028 diff 5863 p 29219 n 23356
+trace-hmmer at 182 switched to plru 0.484755 diff 938 p 1935 n 2873
+trace-xalancbmk at 135 switched to nlru 0.572786 diff 5186 p 14240 n 9054
+count 6000000
+count 6000000
+trace-sphinx3 at 117 switched to plru 1.67749 diff 139173 p 82965 n 222138
+trace-hmmer at 183 switched to nlru 2.16754 diff 8267 p 12081 n 3814
+trace-soplex at 121 switched to plru 0.0640032 diff 2049 p 32014 n 34063
+trace-xalancbmk at 136 switched to plru 0.153974 diff 1488 p 9664 n 11152
+trace-mcf at 131 switched to plru 1.44428 diff 14242 p 9861 n 24103
+trace-mcf at 132 switched to nlru 1.54404 diff 21578 p 35553 n 13975
+trace-astar at 127 switched to plru 0.0539469 diff 1837 p 34052 n 35889
+trace-xalancbmk at 137 switched to nlru 0.282465 diff 2434 p 11051 n 8617
+count 6000000
+trace-sphinx3 at 120 switched to nlru 0.321528 diff 39484 p 162285 n 122801
+count 9000000
+trace-soplex at 122 switched to nlru 0.291491 diff 34128 p 151209 n 117081
+trace-milc at 123 switched to nlru 0.105729 diff 14931 p 156150 n 141219
+trace-sphinx3 at 121 switched to plru 0.437316 diff 47845 p 109406 n 157251
+count 5000000
+trace-mcf at 135 switched to plru 0.935877 diff 10450 p 11166 n 21616
+count 7000000
+trace-mcf at 137 switched to nlru 0.122043 diff 2915 p 26800 n 23885
+trace-soplex at 123 switched to plru 0.803907 diff 28480 p 35427 n 63907
+count 7000000
+trace-mcf at 139 switched to plru 0.282626 diff 3909 p 13831 n 17740
+count 7000000
+trace-xalancbmk at 141 switched to plru 0.556666 diff 5290 p 9503 n 14793
+count 9000000
+count 7000000
+trace-sphinx3 at 124 switched to nlru 0.123756 diff 22384 p 203256 n 180872
+trace-xalancbmk at 144 switched to nlru 0.0581777 diff 1081 p 19662 n 18581
+trace-mcf at 142 switched to nlru 0.169155 diff 2731 p 18876 n 16145
+trace-xalancbmk at 145 switched to plru 0.123206 diff 1511 p 12264 n 13775
+trace-astar at 138 switched to nlru 0.235275 diff 6659 p 34962 n 28303
+trace-sphinx3 at 126 switched to plru 20.3828 diff 261042 p 12807 n 273849
+bad input here
+trace-bzip2 at 190 switched to nlru 2.00844 diff 9524 p 14266 n 4742
+trace-xalancbmk at 147 switched to nlru 0.236746 diff 6350 p 33172 n 26822
+trace-xalancbmk at 148 switched to plru 0.666934 diff 10819 p 16222 n 27041
+trace-sphinx3 at 128 switched to nlru 0.0866239 diff 20211 p 253530 n 233319
+count 7000000
+trace-mcf at 145 switched to plru 0.263534 diff 3028 p 11490 n 14518
+trace-leslie3d at 133 switched to plru 0.286401 diff 32192 p 112402 n 144594
+trace-hmmer at 199 switched to plru 4.12229 diff 7045 p 1709 n 8754
+count 10000000
+trace-xalancbmk at 150 switched to nlru 0.0575303 diff 1332 p 24485 n 23153
+trace-sphinx3 at 130 switched to plru 4.16212 diff 200993 p 48291 n 249284
+trace-bzip2 at 199 switched to plru 7.26667 diff 1090 p 150 n 1240
+count 10000000
+count 10000000
+trace-sphinx3 at 133 switched to nlru 0.387619 diff 37313 p 133575 n 96262
+trace-sphinx3 at 134 switched to plru 0.878687 diff 91756 p 104424 n 196180
+count 7000000
+trace-mcf at 152 switched to nlru 0.1558 diff 3496 p 25935 n 22439
+trace-xalancbmk at 159 switched to plru 0.5644 diff 5105 p 9045 n 14150
+trace-leslie3d at 141 switched to nlru 0.108444 diff 628 p 6419 n 5791
+trace-soplex at 135 switched to nlru 2.27199 diff 32294 p 46508 n 14214
+count 8000000
+trace-xalancbmk at 160 switched to nlru 0.0579594 diff 1306 p 23839 n 22533
+count 7000000
+trace-astar at 148 switched to plru 0.0751182 diff 3480 p 46327 n 49807
+trace-mcf at 153 switched to plru 0.157722 diff 2736 p 17347 n 20083
+trace-sphinx3 at 137 switched to nlru 0.161643 diff 26245 p 188609 n 162364
+trace-xalancbmk at 161 switched to plru 0.384544 diff 4573 p 11892 n 16465
+trace-leslie3d at 143 switched to plru 0.0888925 diff 3847 p 43277 n 47124
+count 7000000
+trace-sphinx3 at 139 switched to plru 19.144 diff 262656 p 13720 n 276376
+trace-astar at 151 switched to nlru 0.174469 diff 2713 p 18263 n 15550
+count 7000000
+trace-mcf at 157 switched to nlru 0.335286 diff 6583 p 26217 n 19634
+trace-sphinx3 at 141 switched to nlru 0.0955896 diff 21717 p 248907 n 227190
+trace-sphinx3 at 143 switched to plru 4.20083 diff 202085 p 48106 n 250191
+trace-soplex at 147 switched to plru 0.838346 diff 7805 p 9310 n 17115
+count 8000000
+trace-milc at 146 switched to plru 0.183548 diff 13551 p 73828 n 87379
+trace-soplex at 148 switched to nlru 0.193912 diff 8931 p 54988 n 46057
+count 11000000
+trace-mcf at 159 switched to plru 0.480252 diff 7466 p 15546 n 23012
+trace-xalancbmk at 168 switched to nlru 0.136674 diff 1822 p 15153 n 13331
+count 8000000
+count 8000000
+count 11000000
+trace-soplex at 150 switched to plru 0.826766 diff 28263 p 34185 n 62448
+trace-hmmer at 221 switched to nlru 1.50342 diff 12298 p 20478 n 8180
+trace-xalancbmk at 171 switched to plru 0.315667 diff 5301 p 16793 n 22094
+trace-sphinx3 at 146 switched to nlru 0.674373 diff 50903 p 126385 n 75482
+trace-hmmer at 222 switched to plru 23.3658 diff 19417 p 831 n 20248
+trace-mcf at 162 switched to nlru 0.393217 diff 8928 p 31633 n 22705
+count 8000000
+trace-sphinx3 at 147 switched to plru 0.836998 diff 86564 p 103422 n 189986
+trace-xalancbmk at 174 switched to nlru 0.186004 diff 2549 p 16253 n 13704
+trace-leslie3d at 153 switched to nlru 0.336075 diff 42331 p 168288 n 125957
+trace-hmmer at 224 switched to nlru 2.89121 diff 18550 p 24966 n 6416
+count 6000000
+trace-mcf at 163 switched to plru 1.0269 diff 11682 p 11376 n 23058
+bad input here
+trace-xalancbmk at 175 switched to plru 3.18961 diff 4912 p 1540 n 6452
+count 11000000
+trace-xalancbmk at 178 switched to nlru 0.302597 diff 2074 p 8928 n 6854
+trace-mcf at 165 switched to nlru 0.109639 diff 3501 p 35433 n 31932
+trace-xalancbmk at 179 switched to plru 0.178268 diff 2141 p 12010 n 14151
+count 9000000
+trace-xalancbmk at 180 switched to nlru 0.361235 diff 4842 p 18246 n 13404
+trace-sphinx3 at 150 switched to nlru 0.220001 diff 32981 p 182894 n 149913
+trace-xalancbmk at 181 switched to plru 0.672278 diff 5871 p 8733 n 14604
+trace-mcf at 167 switched to plru 0.648898 diff 7803 p 12025 n 19828
+trace-bzip2 at 223 switched to nlru 0.565772 diff 6258 p 17319 n 11061
+count 12000000
+trace-xalancbmk at 182 switched to nlru 0.581195 diff 5118 p 13924 n 8806
+trace-sphinx3 at 152 switched to plru 16.5922 diff 252218 p 15201 n 267419
+trace-mcf at 169 switched to nlru 0.567269 diff 12059 p 33317 n 21258
+trace-xalancbmk at 183 switched to plru 0.14661 diff 4878 p 33272 n 38150
+trace-mcf at 170 switched to plru 1.47453 diff 14418 p 9778 n 24196
+count 8000000
+trace-sphinx3 at 154 switched to nlru 0.0962521 diff 21426 p 244029 n 222603
+trace-hmmer at 234 switched to plru 3.89713 diff 13032 p 3344 n 16376
+trace-bwaves at 125 switched to plru 0.729756 diff 45663 p 62573 n 108236
+trace-hmmer at 235 switched to nlru 11.3981 diff 18009 p 19589 n 1580
+trace-mcf at 172 switched to nlru 0.107235 diff 2444 p 25235 n 22791
+trace-bzip2 at 232 switched to plru 3.05995 diff 1276 p 417 n 1693
+trace-soplex at 162 switched to nlru 3.76036 diff 32027 p 40544 n 8517
+trace-sphinx3 at 156 switched to plru 4.52393 diff 202690 p 44804 n 247494
+count 8000000
+trace-bwaves at 127 switched to nlru 0.503596 diff 63586 p 189850 n 126264
+trace-xalancbmk at 189 switched to nlru 0.127974 diff 3050 p 26883 n 23833
+trace-mcf at 174 switched to plru 0.837316 diff 9846 p 11759 n 21605
+count 8000000
+trace-xalancbmk at 190 switched to plru 0.662943 diff 7952 p 11995 n 19947
+trace-leslie3d at 161 switched to plru 0.121822 diff 20074 p 164781 n 184855
+count 12000000
+trace-sphinx3 at 158 switched to nlru 0.0664764 diff 18538 p 297404 n 278866
+trace-mcf at 176 switched to nlru 0.268537 diff 6957 p 32864 n 25907
+trace-xalancbmk at 193 switched to nlru 0.215598 diff 5678 p 32014 n 26336
+count 8000000
+trace-sphinx3 at 160 switched to plru 0.911846 diff 93011 p 102003 n 195014
+trace-mcf at 178 switched to plru 1.59144 diff 13653 p 8579 n 22232
+trace-leslie3d at 164 switched to nlru 0.16384 diff 29477 p 209390 n 179913
+count 13000000
+trace-xalancbmk at 194 switched to plru 0.253941 diff 5413 p 21316 n 26729
+count 9000000
+trace-hmmer at 246 switched to plru 2.24091 diff 1972 p 880 n 2852
+trace-soplex at 174 switched to plru 0.198453 diff 4670 p 23532 n 28202
+trace-hmmer at 247 switched to nlru 3.40806 diff 16403 p 21216 n 4813
+trace-bwaves at 131 switched to plru 0.232572 diff 4327 p 18605 n 22932
+count 9000000
+trace-mcf at 180 switched to nlru 0.452972 diff 10913 p 35005 n 24092
+trace-xalancbmk at 197 switched to nlru 0.0830993 diff 1657 p 21597 n 19940
+trace-hmmer at 248 switched to plru 1.88665 diff 4394 p 2329 n 6723
+count 12000000
+trace-hmmer at 249 switched to nlru 5.97312 diff 15775 p 18416 n 2641
+trace-xalancbmk at 198 switched to plru 0.0643811 diff 738 p 11463 n 12201
+trace-xalancbmk at 199 switched to nlru 0.251805 diff 9174 p 45607 n 36433
+trace-hmmer at 251 switched to plru 1.92091 diff 4153 p 2162 n 6315
+count 10000000
+trace-xalancbmk at 200 switched to plru 1.89291 diff 18666 p 9861 n 28527
+trace-hmmer at 252 switched to nlru 0.900157 diff 10882 p 22971 n 12089
+count 9000000
+trace-soplex at 176 switched to plru 0.594806 diff 28082 p 47212 n 75294
+trace-mcf at 183 switched to plru 1.43541 diff 13157 p 9166 n 22323
+trace-sphinx3 at 165 switched to plru 15.3258 diff 262975 p 17159 n 280134
+count 9000000
+trace-mcf at 184 switched to nlru 0.332886 diff 9186 p 36781 n 27595
+trace-hmmer at 253 switched to plru 7.39668 diff 8913 p 1205 n 10118
+trace-bwaves at 136 switched to nlru 0.302916 diff 11834 p 50901 n 39067
+trace-hmmer at 254 switched to nlru 0.273687 diff 2438 p 11346 n 8908
+trace-mcf at 185 switched to plru 0.959895 diff 10220 p 10647 n 20867
+trace-xalancbmk at 205 switched to nlru 0.0968034 diff 1602 p 18151 n 16549
+trace-xalancbmk at 206 switched to plru 0.155336 diff 3153 p 20298 n 23451
+trace-mcf at 186 switched to nlru 1.38113 diff 21141 p 36448 n 15307
+trace-sphinx3 at 167 switched to nlru 0.0989594 diff 21235 p 235818 n 214583
+trace-hmmer at 256 switched to plru 0.25509 diff 2744 p 10757 n 13501
+count 14000000
+trace-hmmer at 257 switched to nlru 10.2697 diff 11882 p 13039 n 1157
+bad input here
+count 9000000
+trace-hmmer at 258 switched to plru 2.18368 diff 5005 p 2292 n 7297
+trace-sphinx3 at 169 switched to plru 5.3169 diff 213766 p 40205 n 253971
+trace-mcf at 189 switched to plru 1.34899 diff 12926 p 9582 n 22508
+trace-hmmer at 259 switched to nlru 1.63664 diff 14517 p 23387 n 8870
+count 13000000
+count 7000000
+trace-bzip2 at 256 switched to nlru 0.251751 diff 3953 p 19655 n 15702
+trace-sphinx3 at 172 switched to nlru 0.780844 diff 52764 p 120337 n 67573
+trace-mcf at 192 switched to nlru 0.259102 diff 5786 p 28117 n 22331
+trace-xalancbmk at 214 switched to nlru 0.0837365 diff 1679 p 21730 n 20051
+trace-sphinx3 at 173 switched to plru 1.1369 diff 108576 p 95502 n 204078
+trace-xalancbmk at 215 switched to plru 0.14334 diff 1273 p 8881 n 10154
+trace-mcf at 193 switched to plru 1.51313 diff 13998 p 9251 n 23249
+count 13000000
+trace-xalancbmk at 216 switched to nlru 0.139046 diff 2924 p 23953 n 21029
+count 9000000
+trace-xalancbmk at 217 switched to plru 0.365915 diff 4350 p 11888 n 16238
+trace-leslie3d at 178 switched to plru 1.51485 diff 93975 p 62036 n 156011
+trace-mcf at 195 switched to nlru 0.546158 diff 14394 p 40749 n 26355
+trace-bzip2 at 262 switched to plru 1.06667 diff 1568 p 1470 n 3038
+trace-sphinx3 at 176 switched to nlru 0.247549 diff 34064 p 171669 n 137605
+trace-mcf at 196 switched to plru 0.629162 diff 9523 p 15136 n 24659
+count 11000000
+count 9000000
+trace-hmmer at 269 switched to plru 0.363829 diff 859 p 2361 n 3220
+count 10000000
+trace-hmmer at 271 switched to nlru 0.401855 diff 6066 p 21161 n 15095
+trace-bzip2 at 265 switched to nlru 1.13545 diff 1643 p 3090 n 1447
+trace-sphinx3 at 178 switched to plru 15.0639 diff 259220 p 17208 n 276428
+trace-hmmer at 272 switched to plru 14.8328 diff 17562 p 1184 n 18746
+trace-leslie3d at 183 switched to nlru 0.157753 diff 24462 p 179527 n 155065
+trace-xalancbmk at 222 switched to nlru 0.0998406 diff 1190 p 13109 n 11919
+trace-hmmer at 274 switched to nlru 2.01505 diff 14595 p 21838 n 7243
+count 10000000
+trace-hmmer at 275 switched to plru 7.15216 diff 9119 p 1275 n 10394
+count 10000000
+trace-soplex at 188 switched to nlru 1.43176 diff 27474 p 46663 n 19189
+count 9000000
+trace-sphinx3 at 180 switched to nlru 0.102459 diff 21511 p 231459 n 209948
+trace-hmmer at 276 switched to nlru 3.2982 diff 16458 p 21448 n 4990
+trace-bzip2 at 267 switched to plru 7.8975 diff 3159 p 400 n 3559
+trace-xalancbmk at 223 switched to plru 0.218969 diff 7030 p 32105 n 39135
+count 10000000
+trace-mcf at 201 switched to nlru 0.686559 diff 15819 p 38860 n 23041
+trace-hmmer at 277 switched to plru 2.50139 diff 3602 p 1440 n 5042
+trace-hmmer at 278 switched to nlru 7.89096 diff 18670 p 21036 n 2366
+trace-mcf at 202 switched to plru 0.414555 diff 5742 p 13851 n 19593
+trace-sphinx3 at 182 switched to plru 7.38351 diff 222325 p 30111 n 252436
+trace-bwaves at 154 switched to plru 0.132819 diff 6168 p 46439 n 52607
+count 14000000
+trace-sphinx3 at 184 switched to nlru 0.072679 diff 19799 p 292216 n 272417
+count 15000000
+trace-leslie3d at 189 switched to plru 0.295461 diff 22099 p 74795 n 96894
+trace-mcf at 205 switched to nlru 0.380833 diff 9124 p 33082 n 23958
+trace-xalancbmk at 227 switched to nlru 0.369489 diff 5028 p 18636 n 13608
+trace-sphinx3 at 186 switched to plru 1.16031 diff 109293 p 94193 n 203486
+trace-mcf at 206 switched to plru 0.999649 diff 11400 p 11404 n 22804
+bad input here
+count 8000000
+trace-bwaves at 160 switched to nlru 0.551114 diff 75846 p 213469 n 137623
+trace-sphinx3 at 188 switched to nlru 0.0507414 diff 14536 p 301008 n 286472
+trace-xalancbmk at 228 switched to plru 0.0685398 diff 1288 p 18792 n 20080
+trace-mcf at 208 switched to nlru 0.427933 diff 9388 p 31326 n 21938
+trace-bwaves at 162 switched to plru 0.231486 diff 3948 p 17055 n 21003
+trace-xalancbmk at 231 switched to nlru 0.439514 diff 5933 p 19432 n 13499
+bad input here
+trace-sphinx3 at 191 switched to plru 17.5922 diff 263391 p 14972 n 278363
+trace-xalancbmk at 232 switched to plru 0.11175 diff 1962 p 17557 n 19519
+count 10000000
+trace-soplex at 200 switched to plru 0.995756 diff 8212 p 8247 n 16459
+trace-xalancbmk at 233 switched to nlru 0.222244 diff 2298 p 12638 n 10340
+trace-hmmer at 291 switched to plru 0.240019 diff 493 p 2054 n 2547
+trace-soplex at 201 switched to nlru 0.254854 diff 13624 p 67082 n 53458
+trace-bwaves at 164 switched to nlru 0.681377 diff 50304 p 124131 n 73827
+count 11000000
+count 14000000
+trace-mcf at 212 switched to plru 0.971141 diff 9927 p 10222 n 20149
+trace-sphinx3 at 193 switched to nlru 0.0789435 diff 17883 p 244412 n 226529
+trace-soplex at 203 switched to plru 0.843269 diff 28715 p 34052 n 62767
+trace-xalancbmk at 237 switched to plru 0.409921 diff 8214 p 20038 n 28252
+trace-bzip2 at 288 switched to nlru 1.42026 diff 7418 p 12641 n 5223
+count 12000000
+count 10000000
+trace-mcf at 215 switched to nlru 0.866597 diff 19079 p 41095 n 22016
+count 16000000
+trace-sphinx3 at 195 switched to plru 3.81333 diff 194819 p 51089 n 245908
+trace-bwaves at 167 switched to plru 14.131 diff 4748 p 336 n 5084
+bad input here
+trace-xalancbmk at 241 switched to nlru 0.229024 diff 3210 p 17226 n 14016
+trace-mcf at 216 switched to plru 0.953129 diff 11652 p 12225 n 23877
+count 15000000
+trace-bwaves at 169 switched to nlru 0.328886 diff 11610 p 46911 n 35301
+trace-xalancbmk at 243 switched to plru 0.164257 diff 3703 p 22544 n 26247
+trace-xalancbmk at 244 switched to nlru 0.485829 diff 6068 p 18558 n 12490
+trace-hmmer at 301 switched to nlru 0.129888 diff 3451 p 30020 n 26569
+trace-mcf at 218 switched to nlru 0.57933 diff 12685 p 34581 n 21896
+trace-sphinx3 at 198 switched to nlru 0.442204 diff 43504 p 141884 n 98380
+trace-hmmer at 302 switched to plru 17.296 diff 26238 p 1517 n 27755
+trace-sphinx3 at 199 switched to plru 0.418796 diff 46465 p 110949 n 157414
+count 11000000
+trace-hmmer at 304 switched to nlru 0.693693 diff 9437 p 23041 n 13604
+count 11000000
+count 10000000
+trace-mcf at 221 switched to plru 0.847666 diff 10044 p 11849 n 21893
+trace-leslie3d at 207 switched to nlru 0.378603 diff 46837 p 170547 n 123710
+trace-hmmer at 306 switched to plru 14.7372 diff 12055 p 818 n 12873
+trace-sphinx3 at 202 switched to nlru 0.154145 diff 28619 p 214282 n 185663
+count 15000000
+trace-hmmer at 307 switched to nlru 10.8188 diff 26214 p 28637 n 2423
+trace-sphinx3 at 204 switched to plru 10.7768 diff 235925 p 21892 n 257817
+trace-xalancbmk at 252 switched to plru 0.0622098 diff 1380 p 22183 n 23563
+trace-mcf at 224 switched to nlru 0.389764 diff 9009 p 32123 n 23114
+trace-mcf at 225 switched to plru 2.53197 diff 17030 p 6726 n 23756
+trace-xalancbmk at 253 switched to nlru 1.03802 diff 7427 p 14582 n 7155
+trace-bzip2 at 302 switched to nlru 0.487103 diff 812 p 2479 n 1667
+trace-soplex at 215 switched to nlru 3.67827 diff 29691 p 37763 n 8072
+trace-mcf at 226 switched to nlru 0.23315 diff 5770 p 30518 n 24748
+trace-sphinx3 at 206 switched to nlru 0.0521018 diff 14633 p 295487 n 280854
+trace-hmmer at 312 switched to plru 1.02808 diff 3881 p 3775 n 7656
+trace-bzip2 at 303 switched to plru 7.13366 diff 1441 p 202 n 1643
+trace-xalancbmk at 254 switched to plru 0.19569 diff 3033 p 15499 n 18532
+trace-mcf at 228 switched to plru 1.07228 diff 10845 p 10114 n 20959
+trace-sphinx3 at 208 switched to plru 0.815458 diff 83869 p 102849 n 186718
+trace-xalancbmk at 257 switched to nlru 0.245347 diff 4390 p 22283 n 17893
+trace-bwaves at 181 switched to plru 0.261541 diff 1439 p 5502 n 6941
+count 17000000
+trace-xalancbmk at 258 switched to plru 0.632547 diff 20294 p 32083 n 52377
+count 11000000
+trace-hmmer at 317 switched to nlru 0.750726 diff 10860 p 25326 n 14466
+count 11000000
+trace-hmmer at 318 switched to plru 5.76171 diff 12791 p 2220 n 15011
+trace-mcf at 231 switched to nlru 0.117265 diff 2710 p 25820 n 23110
+count 12000000
+trace-sphinx3 at 211 switched to nlru 0.179917 diff 29654 p 194474 n 164820
+bad input here
+trace-hmmer at 319 switched to nlru 0.7815 diff 8119 p 18508 n 10389
+count 13000000
+count 16000000
+trace-mcf at 233 switched to plru 0.597053 diff 6807 p 11401 n 18208
+bad input here
+trace-xalancbmk at 261 switched to nlru 0.0740468 diff 905 p 13127 n 12222
+trace-hmmer at 321 switched to plru 2.58771 diff 9013 p 3483 n 12496
+bad input here
+count 11000000
+trace-soplex at 225 switched to plru 1.31 diff 10332 p 7887 n 18219
+trace-sphinx3 at 213 switched to plru 27.6745 diff 252834 p 9136 n 261970
+bad input here
+trace-hmmer at 323 switched to nlru 0.508571 diff 7892 p 23410 n 15518
+trace-mcf at 236 switched to nlru 1.59744 diff 25984 p 42250 n 16266
+trace-milc at 227 switched to nlru 0.257126 diff 16084 p 78637 n 62553
+trace-soplex at 226 switched to nlru 0.320465 diff 18645 p 76826 n 58181
+trace-xalancbmk at 263 switched to plru 0.0931827 diff 1781 p 19113 n 20894
+trace-hmmer at 324 switched to plru 14.4034 diff 16247 p 1128 n 17375
+trace-sphinx3 at 215 switched to nlru 0.0718995 diff 18963 p 282706 n 263743
+trace-mcf at 237 switched to plru 1.21855 diff 10973 p 9005 n 19978
+count 12000000
+count 12000000
+trace-sphinx3 at 217 switched to plru 1.61211 diff 131369 p 81489 n 212858
+trace-hmmer at 326 switched to nlru 0.652774 diff 8896 p 22524 n 13628
+trace-mcf at 238 switched to nlru 0.181689 diff 4467 p 29053 n 24586
+trace-bwaves at 187 switched to nlru 0.102995 diff 14084 p 150828 n 136744
+trace-hmmer at 327 switched to plru 0.251853 diff 2209 p 8771 n 10980
+trace-milc at 230 switched to plru 0.0645726 diff 11923 p 184645 n 196568
+count 12000000
+trace-mcf at 240 switched to plru 1.59038 diff 13453 p 8459 n 21912
+trace-xalancbmk at 266 switched to nlru 0.149936 diff 1652 p 12670 n 11018
+trace-soplex at 228 switched to plru 0.808456 diff 27325 p 33799 n 61124
+trace-hmmer at 330 switched to nlru 0.425345 diff 8287 p 27770 n 19483
+count 11000000
+trace-sphinx3 at 220 switched to nlru 0.251611 diff 34160 p 169925 n 135765
+trace-bzip2 at 319 switched to nlru 0.266701 diff 3673 p 17445 n 13772
+trace-mcf at 242 switched to nlru 0.275698 diff 6260 p 28966 n 22706
+count 16000000
+trace-xalancbmk at 268 switched to plru 0.237756 diff 4068 p 17110 n 21178
+trace-xalancbmk at 269 switched to nlru 0.536088 diff 11275 p 32307 n 21032
+trace-hmmer at 331 switched to plru 6.54354 diff 15253 p 2331 n 17584
+trace-mcf at 243 switched to plru 0.0992105 diff 2199 p 22165 n 24364
+trace-xalancbmk at 270 switched to plru 0.174606 diff 3541 p 20280 n 23821
+count 18000000
+trace-bzip2 at 328 switched to plru 0.685185 diff 259 p 378 n 637
+trace-hmmer at 334 switched to nlru 0.518497 diff 9110 p 26680 n 17570
+trace-mcf at 246 switched to plru 0.695817 diff 8617 p 12384 n 21001
+trace-hmmer at 335 switched to plru 16.8993 diff 22493 p 1331 n 23824
+trace-xalancbmk at 274 switched to nlru 0.0583487 diff 1171 p 21240 n 20069
+trace-xalancbmk at 275 switched to plru 0.0656589 diff 1012 p 15413 n 16425
+trace-sphinx3 at 224 switched to nlru 0.104059 diff 24277 p 257578 n 233301
+trace-hmmer at 338 switched to nlru 0.342461 diff 5453 p 21376 n 15923
+trace-hmmer at 339 switched to plru 17.2139 diff 20760 p 1206 n 21966
+trace-mcf at 249 switched to nlru 0.615958 diff 14204 p 37264 n 23060
+trace-libquantum at 251 switched to nlru 0.0902891 diff 2886 p 34850 n 31964
+trace-sphinx3 at 226 switched to plru 2.89199 diff 170422 p 58929 n 229351
+count 17000000
+trace-mcf at 250 switched to plru 1.06385 diff 11664 p 10964 n 22628
+count 12000000
+count 13000000
+trace-hmmer at 341 switched to nlru 0.64658 diff 12146 p 30931 n 18785
+trace-libquantum at 252 switched to plru 1.96547 diff 22709 p 11554 n 34263
+trace-hmmer at 342 switched to plru 1.56821 diff 8426 p 5373 n 13799
+count 14000000
+trace-xalancbmk at 280 switched to nlru 0.294648 diff 11039 p 48504 n 37465
+trace-mcf at 253 switched to nlru 0.198621 diff 4034 p 24344 n 20310
+trace-sphinx3 at 229 switched to nlru 0.413114 diff 45326 p 155044 n 109718
+trace-xalancbmk at 281 switched to plru 1.59188 diff 23840 p 14976 n 38816
+trace-bwaves at 197 switched to plru 18.7935 diff 128961 p 6862 n 135823
+trace-leslie3d at 237 switched to plru 0.113304 diff 15255 p 134638 n 149893
+trace-sphinx3 at 230 switched to plru 0.115613 diff 13976 p 120886 n 134862
+bad input here
+trace-hmmer at 345 switched to nlru 1.29656 diff 14432 p 25563 n 11131
+trace-leslie3d at 238 switched to nlru 0.173024 diff 26848 p 182017 n 155169
+trace-xalancbmk at 282 switched to nlru 0.214339 diff 2885 p 16345 n 13460
+count 12000000
+trace-soplex at 240 switched to nlru 4.04725 diff 23984 p 29910 n 5926
+trace-hmmer at 346 switched to plru 2.26725 diff 8017 p 3536 n 11553
+bad input here
+trace-bwaves at 199 switched to nlru 0.2142 diff 30194 p 171156 n 140962
+trace-lbm at 256 switched to plru 0.114174 diff 7273 p 63701 n 70974
+bad input here
+trace-mcf at 255 switched to plru 1.0216 diff 10074 p 9861 n 19935
+count 12000000
+count 10000000
+trace-xalancbmk at 283 switched to plru 0.116605 diff 2962 p 25402 n 28364
+trace-lbm at 258 switched to nlru 0.119019 diff 10400 p 97781 n 87381
+trace-xalancbmk at 285 switched to nlru 0.0762741 diff 2676 p 37760 n 35084
+count 19000000
+trace-hmmer at 349 switched to nlru 1.68914 diff 17290 p 27526 n 10236
+trace-xalancbmk at 286 switched to plru 0.415818 diff 6246 p 15021 n 21267
+trace-sphinx3 at 233 switched to nlru 0.0524835 diff 12424 p 249146 n 236722
+trace-mcf at 258 switched to nlru 0.477202 diff 11575 p 35831 n 24256
+count 13000000
+trace-mcf at 259 switched to plru 0.649688 diff 7717 p 11878 n 19595
+count 13000000
+count 13000000
+trace-sphinx3 at 235 switched to plru 3.53748 diff 193249 p 54629 n 247878
+trace-xalancbmk at 288 switched to nlru 0.0556853 diff 1669 p 31641 n 29972
+trace-xalancbmk at 289 switched to plru 0.305036 diff 6130 p 20096 n 26226
+bad input here
+trace-bzip2 at 353 switched to nlru 2.57046 diff 10670 p 14821 n 4151
+trace-mcf at 263 switched to nlru 0.372676 diff 8598 p 31669 n 23071
+trace-milc at 255 switched to nlru 0.0521405 diff 9813 p 198016 n 188203
+trace-sphinx3 at 238 switched to nlru 0.414747 diff 44195 p 150754 n 106559
+trace-milc at 256 switched to plru 0.18841 diff 32877 p 174497 n 207374
+trace-mcf at 264 switched to plru 0.695933 diff 9480 p 13622 n 23102
+trace-soplex at 251 switched to plru 1.59669 diff 13524 p 8470 n 21994
+trace-sphinx3 at 239 switched to plru 0.29779 diff 34281 p 115118 n 149399
+count 18000000
+trace-soplex at 252 switched to nlru 0.317663 diff 19488 p 80836 n 61348
+count 12000000
+trace-xalancbmk at 294 switched to nlru 0.523508 diff 5211 p 15165 n 9954
+count 18000000
+trace-leslie3d at 251 switched to plru 0.305004 diff 35741 p 117182 n 152923
+trace-mcf at 267 switched to nlru 0.376091 diff 9136 p 33428 n 24292
+trace-bzip2 at 362 switched to plru 2.41397 diff 968 p 401 n 1369
+trace-mcf at 268 switched to plru 0.651884 diff 7820 p 11996 n 19816
+trace-xalancbmk at 298 switched to plru 0.262235 diff 3874 p 14773 n 18647
+count 20000000
+trace-sphinx3 at 244 switched to plru 6.33 diff 216562 p 34212 n 250774
+trace-xalancbmk at 299 switched to nlru 0.282522 diff 11226 p 50961 n 39735
+trace-mcf at 271 switched to nlru 0.449653 diff 10235 p 32997 n 22762
+trace-leslie3d at 255 switched to plru 0.0860884 diff 11033 p 128159 n 139192
+bad input here
+trace-mcf at 272 switched to plru 0.799681 diff 10040 p 12555 n 22595
+trace-leslie3d at 256 switched to nlru 0.115581 diff 17545 p 169343 n 151798
+trace-sphinx3 at 247 switched to nlru 0.709962 diff 53343 p 128478 n 75135
+count 15000000
+trace-xalancbmk at 300 switched to plru 0.540986 diff 13549 p 25045 n 38594
+trace-soplex at 258 switched to nlru 3.62193 diff 35408 p 45184 n 9776
+trace-sphinx3 at 248 switched to plru 0.645939 diff 67728 p 104852 n 172580
+trace-mcf at 274 switched to nlru 0.412777 diff 11514 p 39408 n 27894
+count 13000000
+trace-mcf at 275 switched to plru 0.876741 diff 10890 p 12421 n 23311
+trace-hmmer at 375 switched to plru 8.69798 diff 24998 p 2874 n 27872
+trace-mcf at 277 switched to nlru 0.558447 diff 13176 p 36770 n 23594
+trace-sphinx3 at 251 switched to nlru 0.20028 diff 34175 p 204811 n 170636
+count 13000000
+trace-mcf at 278 switched to plru 0.543756 diff 7394 p 13598 n 20992
+trace-xalancbmk at 308 switched to nlru 0.0699172 diff 1292 p 19771 n 18479
+trace-lbm at 278 switched to plru 0.0634689 diff 7263 p 114434 n 121697
+count 19000000
+count 14000000
+trace-mcf at 281 switched to nlru 0.284477 diff 6702 p 30261 n 23559
+trace-soplex at 268 switched to plru 0.0921547 diff 2206 p 23938 n 26144
+trace-xalancbmk at 311 switched to plru 0.961996 diff 14150 p 14709 n 28859
+count 14000000
+trace-leslie3d at 263 switched to plru 0.205813 diff 31581 p 153445 n 185026
+trace-sphinx3 at 255 switched to nlru 0.0624869 diff 16994 p 288955 n 271961
+trace-leslie3d at 264 switched to nlru 0.104645 diff 16195 p 170956 n 154761
+count 19000000
+count 14000000
+trace-mcf at 283 switched to plru 0.553981 diff 6722 p 12134 n 18856
+trace-soplex at 269 switched to nlru 0.629034 diff 57483 p 148866 n 91383
+count 11000000
+trace-lbm at 281 switched to nlru 0.0826985 diff 8772 p 114844 n 106072
+trace-sphinx3 at 257 switched to plru 1.18427 diff 110113 p 92980 n 203093
+trace-soplex at 270 switched to plru 0.480028 diff 21091 p 43937 n 65028
+trace-lbm at 282 switched to plru 0.0528575 diff 5971 p 112964 n 118935
+count 21000000
+count 15000000
+trace-lbm at 283 switched to nlru 0.0594058 diff 6355 p 113331 n 106976
+trace-mcf at 286 switched to nlru 0.226514 diff 6744 p 36517 n 29773
+trace-bzip2 at 386 switched to nlru 2.81646 diff 14547 p 19712 n 5165
+trace-xalancbmk at 318 switched to nlru 0.208139 diff 2005 p 11638 n 9633
+count 13000000
+trace-sphinx3 at 260 switched to nlru 0.232941 diff 34878 p 184607 n 149729
+count 16000000
+trace-xalancbmk at 320 switched to plru 0.347275 diff 4517 p 13007 n 17524
+trace-xalancbmk at 321 switched to nlru 0.255345 diff 8169 p 40161 n 31992
+trace-xalancbmk at 322 switched to plru 0.446453 diff 9609 p 21523 n 31132
+trace-bzip2 at 395 switched to plru 1.05903 diff 915 p 864 n 1779
+trace-mcf at 289 switched to plru 0.620962 diff 8265 p 13310 n 21575
+trace-sphinx3 at 262 switched to plru 34.9713 diff 259242 p 7413 n 266655
+count 14000000
+trace-mcf at 291 switched to nlru 0.601356 diff 14373 p 38274 n 23901
+trace-xalancbmk at 324 switched to nlru 0.193328 diff 6126 p 37813 n 31687
+trace-milc at 281 switched to nlru 0.136381 diff 8863 p 73850 n 64987
+trace-mcf at 292 switched to plru 1.04142 diff 11567 p 11107 n 22674
+trace-sphinx3 at 264 switched to nlru 0.0800011 diff 20083 p 271117 n 251034
+trace-milc at 282 switched to plru 0.0700098 diff 8336 p 119069 n 127405
+bad input here
+bad input here
+done
+trace-xalancbmk at 325 switched to plru 0.32925 diff 9112 p 27675 n 36787
+trace-mcf at 294 switched to nlru 0.265973 diff 6415 p 30534 n 24119
+trace-sphinx3 at 266 switched to plru 2.14313 diff 151590 p 70733 n 222323
+trace-mcf at 295 switched to plru 0.10786 diff 2013 p 18663 n 20676
+count 20000000
+trace-xalancbmk at 327 switched to nlru 0.0628558 diff 1358 p 22963 n 21605
+trace-milc at 285 switched to nlru 0.200279 diff 22652 p 135754 n 113102
+count 22000000
+trace-sphinx3 at 269 switched to nlru 0.327632 diff 39802 p 161286 n 121484
+count 14000000
+trace-xalancbmk at 330 switched to plru 0.218979 diff 7216 p 32953 n 40169
+count 20000000
+trace-hmmer at 400 switched to nlru 0.0526812 diff 3299 p 65921 n 62622
+trace-hmmer at 401 switched to plru 1.23974 diff 32253 p 26016 n 58269
+trace-soplex at 282 switched to nlru 2.53307 diff 32441 p 45248 n 12807
+trace-sphinx3 at 271 switched to plru 17.1846 diff 259883 p 15123 n 275006
+count 15000000
+count 15000000
+trace-xalancbmk at 337 switched to nlru 0.137499 diff 3417 p 28268 n 24851
+trace-xalancbmk at 338 switched to plru 0.0535748 diff 1432 p 26729 n 28161
+trace-sphinx3 at 273 switched to nlru 0.11296 diff 24285 p 239273 n 214988
+count 16000000
+count 17000000
+bad input here
+trace-xalancbmk at 343 switched to nlru 0.152771 diff 3181 p 24003 n 20822
+trace-soplex at 292 switched to plru 0.79028 diff 8309 p 10514 n 18823
+bad input here
+count 23000000
+trace-soplex at 293 switched to nlru 0.210104 diff 11075 p 63787 n 52712
+trace-bzip2 at 419 switched to nlru 0.0633922 diff 937 p 15718 n 14781
+count 21000000
+trace-sphinx3 at 275 switched to plru 4.79562 diff 201723 p 42064 n 243787
+trace-soplex at 295 switched to plru 0.781418 diff 26955 p 34495 n 61450
+count 15000000
+trace-bwaves at 235 switched to plru 0.0815856 diff 12981 p 159109 n 172090
+trace-mcf at 307 switched to nlru 0.446942 diff 9384 p 30380 n 20996
+trace-sphinx3 at 278 switched to nlru 0.703618 diff 55481 p 134332 n 78851
+trace-mcf at 308 switched to plru 0.794417 diff 10615 p 13362 n 23977
+trace-bwaves at 236 switched to nlru 0.0607841 diff 11887 p 207448 n 195561
+trace-sphinx3 at 279 switched to plru 0.546438 diff 57252 p 104773 n 162025
+trace-hmmer at 411 switched to nlru 0.0882972 diff 5114 p 63032 n 57918
+trace-hmmer at 412 switched to plru 2.23999 diff 39612 p 17684 n 57296
+trace-bzip2 at 426 switched to plru 2.07769 diff 1043 p 502 n 1545
+trace-hmmer at 413 switched to nlru 13.6775 diff 18109 p 19433 n 1324
+count 14000000
+trace-bzip2 at 427 switched to nlru 4.05583 diff 2470 p 3079 n 609
+count 12000000
+trace-milc at 298 switched to plru 0.331277 diff 29432 p 88844 n 118276
+trace-mcf at 312 switched to nlru 0.2984 diff 6062 p 26377 n 20315
+trace-xalancbmk at 352 switched to nlru 0.0690057 diff 2311 p 35801 n 33490
+trace-sphinx3 at 282 switched to nlru 0.189561 diff 32756 p 205555 n 172799
+count 15000000
+trace-xalancbmk at 353 switched to plru 0.607354 diff 9151 p 15067 n 24218
+bad input here
+trace-bzip2 at 429 switched to plru 13.2968 diff 2061 p 155 n 2216
+trace-xalancbmk at 354 switched to nlru 0.131496 diff 1908 p 16418 n 14510
+trace-mcf at 314 switched to plru 0.714888 diff 8648 p 12097 n 20745
+bad input here
+count 15000000
+bad input here
+trace-sphinx3 at 284 switched to plru 54.3964 diff 251420 p 4622 n 256042
+count 21000000
+trace-lbm at 312 switched to plru 0.0610782 diff 6962 p 113985 n 120947
+bad input here
+count 17000000
+trace-xalancbmk at 358 switched to plru 0.285899 diff 5957 p 20836 n 26793
+trace-sphinx3 at 286 switched to nlru 0.0638596 diff 17414 p 290106 n 272692
+count 16000000
+count 24000000
+trace-sphinx3 at 288 switched to plru 1.27117 diff 114297 p 89915 n 204212
+trace-mcf at 319 switched to nlru 0.130852 diff 3038 p 26255 n 23217
+trace-hmmer at 426 switched to plru 7.86231 diff 20670 p 2629 n 23299
+count 18000000
+bad input here
+trace-milc at 306 switched to nlru 0.0953667 diff 11158 p 128159 n 117001
+trace-hmmer at 427 switched to nlru 4.86774 diff 17592 p 21206 n 3614
+count 16000000
+trace-mcf at 320 switched to plru 0.674493 diff 8906 p 13204 n 22110
+bad input here
+trace-soplex at 307 switched to nlru 4.15792 diff 25908 p 32139 n 6231
+count 22000000
+trace-sphinx3 at 291 switched to nlru 0.27187 diff 38518 p 180196 n 141678
+trace-sphinx3 at 293 switched to plru 34.7194 diff 259562 p 7476 n 267038
+trace-xalancbmk at 368 switched to plru 0.667717 diff 8898 p 13326 n 22224
+trace-mcf at 325 switched to plru 0.620893 diff 8315 p 13392 n 21707
+trace-xalancbmk at 369 switched to nlru 0.183953 diff 6681 p 43000 n 36319
+trace-xalancbmk at 370 switched to plru 0.340224 diff 5777 p 16980 n 22757
+trace-sphinx3 at 295 switched to nlru 0.0942868 diff 22763 p 264186 n 241423
+count 22000000
+trace-soplex at 318 switched to plru 0.59397 diff 6245 p 10514 n 16759
+trace-mcf at 328 switched to nlru 0.131566 diff 2775 p 23867 n 21092
+trace-libquantum at 330 switched to nlru 0.0593159 diff 822 p 14680 n 13858
+trace-soplex at 319 switched to nlru 0.286462 diff 12254 p 55031 n 42777
+trace-mcf at 329 switched to plru 0.107145 diff 2143 p 20001 n 22144
+trace-bzip2 at 452 switched to nlru 1.35915 diff 12390 p 21506 n 9116
+trace-libquantum at 331 switched to plru 0.560738 diff 6444 p 11492 n 17936
+count 25000000
+trace-sphinx3 at 297 switched to plru 2.62908 diff 160103 p 60897 n 221000
+trace-xalancbmk at 376 switched to nlru 0.483713 diff 6801 p 20861 n 14060
+count 16000000
+count 13000000
+trace-xalancbmk at 377 switched to plru 0.524442 diff 13099 p 24977 n 38076
+trace-mcf at 333 switched to nlru 0.281966 diff 6673 p 30339 n 23666
+trace-soplex at 321 switched to plru 0.825236 diff 28011 p 33943 n 61954
+count 16000000
+count 15000000
+trace-sphinx3 at 300 switched to nlru 0.449849 diff 49307 p 158915 n 109608
+trace-xalancbmk at 378 switched to nlru 0.164061 diff 4660 p 33064 n 28404

@@ -1,0 +1,86 @@
+total times 27218180
+evicted_bits 971891677 35
+optimal_bits 971891677 35
+sample_bits 0 0
+sample_hit 0
+evicted_is_optimal 27218180
+evicted_nearby_bits 0 0
+optimal_nearby_bits 0 0
+nearby_times 1
+hit_in_miss 9352624
+hit_in_hit 4325541
+miss_in_miss 26233584
+miss_in_hit 1050132
+hit rate = 0.333924
+ change to plru 195  ; change to nlru 195 total= 390
+nlru 426 plru 346 n/(n+p) = 0.551813
+zero input 19072
+zero diff 217
+zero optimal 217
+wb times 18136983 old: 18132905
+code diff
+0 22172133
+1 3789983
+2 511695
+3 310622
+4 227094
+5 175464
+6 24562
+7 5813
+8 814
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+49 0
+50 0
+51 0
+52 0
+53 0
+54 0
+55 0
+56 0
+57 0
+58 0
+59 0
+60 0
+61 0
+62 0
+63 0
+64 0

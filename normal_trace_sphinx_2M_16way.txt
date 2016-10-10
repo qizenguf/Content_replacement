@@ -1,0 +1,6 @@
+total times 123188979
+evicted_bits 21892072874 177
+optimal_bits 17675811848 143
+sample_bits 21699143282 176
+sample_hit 16792097
+evicted_is_optimal 8358346

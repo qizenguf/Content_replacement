@@ -1,0 +1,1889 @@
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+Reading trace from:trace-mcf
+Reading trace from:trace-leslie3d
+Reading trace from:trace-lbm
+Reading trace from:trace-astar
+Reading trace from:trace-hmmer
+sec size = 1
+sec size = 1
+Reading trace from:trace-xalancbmk
+sec size = 1
+Reading trace from:trace-gobmk
+Reading trace from:trace-gcc
+Reading trace from:trace-h264
+Reading trace from:trace-bzip2
+Reading trace from:trace-milc
+Reading trace from:trace-libquantum
+sec size = 1
+sec size = 1
+sec size = 1
+Reading trace from:trace-bwaves
+Reading trace from:trace-perlbench
+Reading trace from:trace-soplex
+Reading trace from:trace-sphinx3
+bad input here
+trace-xalancbmk at 1 switched to plru 0.446224 diff 38029
+trace-xalancbmk plru 443 / 13745 mr 0.0322299 with 47195 flips ; nlru 1048 / 15552 mr 0.0673868 with 85224 flips
+trace-hmmer at 1 switched to plru 0.288302 diff 122681
+trace-hmmer plru 2043 / 5022 mr 0.40681 with 302849 flips ; nlru 2916 / 5363 mr 0.543726 with 425530 flips
+count 1000000
+trace-bzip2 at 2 switched to plru 0.174674 diff 9657
+trace-bzip2 plru 294 / 8653 mr 0.0339767 with 45629 flips ; nlru 286 / 9464 mr 0.0302198 with 55286 flips
+trace-mcf at 1 switched to plru 0.192545 diff 35877
+trace-mcf plru 3858 / 7487 mr 0.515293 with 150453 flips ; nlru 4686 / 7911 mr 0.59234 with 186330 flips
+count 1000000
+count 1000000
+trace-perlbench at 1 switched to plru 0.208713 diff 80397
+trace-perlbench plru 2811 / 9434 mr 0.297965 with 304807 flips ; nlru 4319 / 10353 mr 0.417174 with 385204 flips
+count 1000000
+bad input here
+trace-libquantum at 1 switched to plru 0.395818 diff 36914
+trace-libquantum plru 6555 / 8493 mr 0.771812 with 56346 flips ; nlru 6996 / 9063 mr 0.77193 with 93260 flips
+bad input here
+count 1000000
+bad input here
+count 1000000
+trace-bzip2 at 3 switched to nlru 0.374014 diff 19004
+trace-bzip2 plru 394 / 6325 mr 0.0622925 with 69815 flips ; nlru 413 / 6716 mr 0.0614949 with 50811 flips
+trace-sphinx3 at 1 switched to plru 0.314464 diff 629765
+trace-sphinx3 plru 6818 / 12465 mr 0.546972 with 1372894 flips ; nlru 9891 / 13473 mr 0.734135 with 2002659 flips
+bad input here
+count 1000000
+count 2000000
+count 1000000
+count 1000000
+count 2000000
+trace-bzip2 at 4 switched to plru 0.91638 diff 15452
+trace-bzip2 plru 8 / 7147 mr 0.00111935 with 1410 flips ; nlru 105 / 7780 mr 0.0134961 with 16862 flips
+count 2000000
+count 1000000
+trace-soplex at 3 switched to plru 0.240138 diff 68245
+trace-soplex plru 2796 / 7310 mr 0.38249 with 215946 flips ; nlru 3408 / 7770 mr 0.43861 with 284191 flips
+count 2000000
+count 1000000
+trace-astar at 2 switched to plru 0.144218 diff 71684
+trace-astar plru 5103 / 5910 mr 0.863452 with 425369 flips ; nlru 6338 / 6376 mr 0.99404 with 497053 flips
+count 1000000
+bad input here
+count 1000000
+bad input here
+count 2000000
+count 2000000
+trace-soplex at 4 switched to nlru 2.15686 diff 240764
+trace-soplex plru 4590 / 6389 mr 0.718422 with 352391 flips ; nlru 1449 / 6791 mr 0.213371 with 111627 flips
+bad input here
+bad input here
+count 3000000
+count 1000000
+bad input here
+count 3000000
+count 3000000
+count 1000000
+count 2000000
+count 2000000
+count 3000000
+trace-bzip2 at 7 switched to nlru 0.142799 diff 3179
+trace-bzip2 plru 146 / 6927 mr 0.0210769 with 25441 flips ; nlru 152 / 7636 mr 0.0199057 with 22262 flips
+count 2000000
+trace-soplex at 5 switched to plru 0.308966 diff 162484
+trace-soplex plru 3161 / 7335 mr 0.430948 with 363412 flips ; nlru 4821 / 7931 mr 0.607868 with 525896 flips
+bad input here
+count 4000000
+count 2000000
+count 3000000
+count 4000000
+trace-bzip2 at 8 switched to plru 0.954113 diff 14742
+trace-bzip2 plru 4 / 7164 mr 0.000558347 with 709 flips ; nlru 91 / 7829 mr 0.0116235 with 15451 flips
+bad input here
+trace-leslie3d at 3 switched to plru 0.138279 diff 194550
+trace-leslie3d plru 7373 / 7985 mr 0.923356 with 1212393 flips ; nlru 8313 / 8589 mr 0.967866 with 1406943 flips
+count 4000000
+count 1000000
+trace-mcf at 5 switched to nlru 0.203931 diff 37831
+trace-mcf plru 4896 / 8136 mr 0.60177 with 223340 flips ; nlru 5352 / 8772 mr 0.610123 with 185509 flips
+count 2000000
+done
+trace-hmmer at 7 switched to nlru 1.43169 diff 60997
+trace-hmmer plru 686 / 5011 mr 0.136899 with 103602 flips ; nlru 292 / 5365 mr 0.0544268 with 42605 flips
+count 2000000
+count 3000000
+count 4000000
+count 3000000
+count 2000000
+count 5000000
+count 5000000
+trace-bzip2 at 10 switched to nlru 1.22866 diff 26302
+trace-bzip2 plru 266 / 6781 mr 0.0392273 with 47709 flips ; nlru 156 / 7513 mr 0.020764 with 21407 flips
+count 2000000
+trace-leslie3d at 4 switched to nlru 0.145563 diff 209389
+trace-leslie3d plru 8529 / 9515 mr 0.896374 with 1647866 flips ; nlru 9633 / 10196 mr 0.944782 with 1438477 flips
+count 5000000
+count 3000000
+count 4000000
+trace-hmmer at 8 switched to plru 0.186604 diff 82403
+trace-hmmer plru 2416 / 5025 mr 0.480796 with 359190 flips ; nlru 3023 / 5359 mr 0.564098 with 441593 flips
+trace-bzip2 at 11 switched to plru 0.983983 diff 12840
+trace-bzip2 plru 1 / 7144 mr 0.000139978 with 209 flips ; nlru 76 / 7640 mr 0.00994764 with 13049 flips
+count 4000000
+bad input here
+bad input here
+count 5000000
+count 6000000
+count 4000000
+trace-soplex at 8 switched to nlru 3.36438 diff 268346
+trace-soplex plru 4651 / 6513 mr 0.71411 with 348107 flips ; nlru 1314 / 6980 mr 0.188252 with 79761 flips
+bad input here
+count 6000000
+count 6000000
+count 3000000
+count 2000000
+count 5000000
+trace-hmmer at 10 switched to nlru 2.26359 diff 70590
+trace-hmmer plru 678 / 5017 mr 0.135141 with 101775 flips ; nlru 215 / 5378 mr 0.0399777 with 31185 flips
+count 3000000
+count 3000000
+count 5000000
+bad input here
+count 3000000
+done
+bad input here
+count 7000000
+count 6000000
+count 7000000
+trace-hmmer at 11 switched to plru 0.243956 diff 115544
+trace-hmmer plru 2407 / 4996 mr 0.481785 with 358083 flips ; nlru 3197 / 5369 mr 0.595455 with 473627 flips
+count 4000000
+bad input here
+count 5000000
+count 8000000
+count 6000000
+done
+count 6000000
+bad input here
+count 3000000
+count 8000000
+count 7000000
+bad input here
+bad input here
+count 2000000
+count 4000000
+count 3000000
+trace-bzip2 at 17 switched to nlru 0.838932 diff 12787
+trace-bzip2 plru 163 / 6916 mr 0.0235685 with 28029 flips ; nlru 95 / 7594 mr 0.0125099 with 15242 flips
+count 4000000
+trace-soplex at 11 switched to plru 0.37805 diff 121643
+trace-soplex plru 2561 / 7461 mr 0.343252 with 200121 flips ; nlru 3857 / 7928 mr 0.486504 with 321764 flips
+count 4000000
+count 4000000
+count 7000000
+count 9000000
+trace-bzip2 at 18 switched to plru 0.981994 diff 11562
+trace-bzip2 plru 1 / 7165 mr 0.000139567 with 212 flips ; nlru 68 / 7688 mr 0.00884495 with 11774 flips
+count 6000000
+trace-soplex at 12 switched to nlru 2.23411 diff 231769
+trace-soplex plru 4540 / 6333 mr 0.71688 with 335510 flips ; nlru 1468 / 6776 mr 0.216647 with 103741 flips
+count 8000000
+count 7000000
+trace-hmmer at 14 switched to nlru 0.148571 diff 17202
+trace-hmmer plru 858 / 5045 mr 0.170069 with 132985 flips ; nlru 788 / 5372 mr 0.146687 with 115783 flips
+bad input here
+count 5000000
+bad input here
+count 10000000
+trace-bzip2 at 20 switched to nlru 1.54456 diff 31367
+trace-bzip2 plru 294 / 6962 mr 0.0422292 with 51675 flips ; nlru 148 / 7435 mr 0.0199059 with 20308 flips
+bad input here
+trace-soplex at 13 switched to plru 0.151836 diff 79437
+trace-soplex plru 3871 / 7196 mr 0.537938 with 443739 flips ; nlru 4871 / 7781 mr 0.626012 with 523176 flips
+count 8000000
+count 9000000
+count 8000000
+trace-bzip2 at 21 switched to plru 0.872983 diff 11904
+trace-bzip2 plru 9 / 7308 mr 0.00123153 with 1732 flips ; nlru 84 / 7853 mr 0.0106965 with 13636 flips
+count 4000000
+count 5000000
+count 5000000
+count 11000000
+count 7000000
+trace-soplex at 14 switched to nlru 0.183984 diff 43900
+trace-soplex plru 3739 / 7027 mr 0.532091 with 282508 flips ; nlru 3332 / 7541 mr 0.441851 with 238608 flips
+count 5000000
+count 9000000
+count 9000000
+count 5000000
+count 6000000
+bad input here
+count 10000000
+count 4000000
+trace-milc at 8 switched to plru 0.142892 diff 307405
+trace-milc plru 10762 / 11078 mr 0.971475 with 1843906 flips ; nlru 11133 / 11159 mr 0.99767 with 2151311 flips
+bad input here
+count 12000000
+count 10000000
+count 3000000
+count 10000000
+trace-hmmer at 21 switched to plru 0.667745 diff 280521
+trace-hmmer plru 905 / 5043 mr 0.179457 with 139581 flips ; nlru 2872 / 5362 mr 0.535621 with 420102 flips
+count 8000000
+trace-soplex at 16 switched to plru 0.39478 diff 177076
+trace-soplex plru 2311 / 7490 mr 0.308545 with 271468 flips ; nlru 4497 / 7991 mr 0.562758 with 448544 flips
+count 6000000
+count 5000000
+count 6000000
+count 11000000
+count 13000000
+count 11000000
+count 7000000
+count 6000000
+bad input here
+trace-soplex at 17 switched to nlru 1.58943 diff 215129
+trace-soplex plru 4886 / 6557 mr 0.745158 with 350479 flips ; nlru 2323 / 7019 mr 0.330959 with 135350 flips
+bad input here
+count 6000000
+trace-hmmer at 23 switched to nlru 1.35175 diff 114078
+trace-hmmer plru 1290 / 5063 mr 0.25479 with 198471 flips ; nlru 579 / 5359 mr 0.108043 with 84393 flips
+count 11000000
+count 5000000
+count 12000000
+count 14000000
+trace-mcf at 15 switched to plru 0.138114 diff 21672
+trace-mcf plru 4805 / 5799 mr 0.828591 with 135242 flips ; nlru 5654 / 6753 mr 0.837258 with 156914 flips
+count 12000000
+count 9000000
+count 7000000
+count 12000000
+count 13000000
+count 8000000
+count 7000000
+count 7000000
+count 6000000
+trace-soplex at 19 switched to plru 0.443808 diff 144344
+trace-soplex plru 2429 / 7310 mr 0.332285 with 180896 flips ; nlru 3985 / 7767 mr 0.513068 with 325240 flips
+bad input here
+count 15000000
+trace-bzip2 at 30 switched to nlru 0.388126 diff 7466
+trace-bzip2 plru 156 / 6925 mr 0.0225271 with 26702 flips ; nlru 130 / 7483 mr 0.0173727 with 19236 flips
+trace-astar at 15 switched to nlru 0.183424 diff 62405
+trace-astar plru 5388 / 5402 mr 0.997408 with 402628 flips ; nlru 5372 / 5758 mr 0.932963 with 340223 flips
+count 7000000
+trace-mcf at 17 switched to nlru 0.207265 diff 37687
+trace-mcf plru 4853 / 8384 mr 0.578841 with 219517 flips ; nlru 5316 / 8982 mr 0.59185 with 181830 flips
+count 13000000
+count 14000000
+count 6000000
+count 10000000
+trace-soplex at 20 switched to nlru 1.39903 diff 194782
+trace-soplex plru 4520 / 6348 mr 0.712035 with 334008 flips ; nlru 2058 / 6749 mr 0.304934 with 139226 flips
+count 13000000
+trace-bzip2 at 31 switched to plru 0.753911 diff 9108
+trace-bzip2 plru 17 / 7149 mr 0.00237795 with 2973 flips ; nlru 71 / 7814 mr 0.00908626 with 12081 flips
+count 8000000
+count 4000000
+count 9000000
+count 15000000
+trace-hmmer at 30 switched to plru 0.576628 diff 135011
+trace-hmmer plru 641 / 4970 mr 0.128974 with 99128 flips ; nlru 1599 / 5351 mr 0.298823 with 234139 flips
+count 16000000
+trace-soplex at 21 switched to plru 0.137283 diff 70259
+trace-soplex plru 3851 / 7229 mr 0.532715 with 441522 flips ; nlru 4784 / 7850 mr 0.609427 with 511781 flips
+trace-hmmer at 31 switched to nlru 0.395121 diff 44282
+trace-hmmer plru 1016 / 5054 mr 0.201029 with 156354 flips ; nlru 768 / 5411 mr 0.141933 with 112072 flips
+count 14000000
+count 16000000
+trace-hmmer at 32 switched to plru 0.247263 diff 31738
+trace-hmmer plru 625 / 4979 mr 0.125527 with 96619 flips ; nlru 879 / 5360 mr 0.163993 with 128357 flips
+count 14000000
+count 8000000
+count 17000000
+trace-bzip2 at 33 switched to nlru 1.47607 diff 26612
+trace-bzip2 plru 258 / 7037 mr 0.0366634 with 44641 flips ; nlru 136 / 7460 mr 0.0182306 with 18029 flips
+count 8000000
+count 7000000
+count 18000000
+trace-hmmer at 36 switched to nlru 6.96331 diff 144433
+trace-hmmer plru 1134 / 5097 mr 0.222484 with 165175 flips ; nlru 149 / 5572 mr 0.0267408 with 20742 flips
+count 11000000
+trace-soplex at 22 switched to nlru 0.381753 diff 86448
+trace-soplex plru 4014 / 7124 mr 0.563448 with 312898 flips ; nlru 3333 / 7588 mr 0.439246 with 226450 flips
+count 9000000
+bad input here
+count 8000000
+count 7000000
+trace-milc at 14 switched to nlru 0.103709 diff 144565
+trace-milc plru 6947 / 6972 mr 0.996414 with 1538508 flips ; nlru 7372 / 7397 mr 0.99662 with 1393943 flips
+bad input here
+count 10000000
+count 17000000
+trace-bzip2 at 34 switched to plru 1 diff 12942
+trace-bzip2 plru 0 / 7317 mr 0 with 0 flips ; nlru 73 / 7896 mr 0.00924519 with 12942 flips
+count 15000000
+count 15000000
+trace-leslie3d at 15 switched to plru 0.150751 diff 198502
+trace-leslie3d plru 7384 / 7936 mr 0.930444 with 1118256 flips ; nlru 8190 / 8483 mr 0.96546 with 1316758 flips
+count 19000000
+trace-hmmer at 38 switched to plru 0.310538 diff 90940
+trace-hmmer plru 1330 / 5039 mr 0.263941 with 201907 flips ; nlru 2004 / 5351 mr 0.374509 with 292847 flips
+bad input here
+count 9000000
+count 10000000
+count 12000000
+trace-soplex at 24 switched to plru 0.398912 diff 154027
+trace-soplex plru 2533 / 7577 mr 0.334301 with 232091 flips ; nlru 4355 / 8082 mr 0.538852 with 386118 flips
+count 16000000
+count 5000000
+count 20000000
+count 8000000
+trace-leslie3d at 16 switched to nlru 0.135753 diff 197801
+trace-leslie3d plru 8594 / 9425 mr 0.91183 with 1654862 flips ; nlru 9677 / 10063 mr 0.961642 with 1457061 flips
+count 18000000
+trace-bzip2 at 36 switched to nlru 0.213079 diff 12945
+trace-bzip2 plru 410 / 6509 mr 0.0629897 with 73697 flips ; nlru 450 / 6869 mr 0.0655117 with 60752 flips
+count 9000000
+count 11000000
+count 16000000
+trace-soplex at 25 switched to nlru 2.79174 diff 271134
+trace-soplex plru 4903 / 6545 mr 0.749121 with 368254 flips ; nlru 1789 / 6978 mr 0.256377 with 97120 flips
+count 9000000
+count 8000000
+trace-bzip2 at 37 switched to plru 0.895872 diff 15495
+trace-bzip2 plru 10 / 7219 mr 0.00138523 with 1801 flips ; nlru 107 / 7865 mr 0.0136046 with 17296 flips
+count 21000000
+trace-hmmer at 42 switched to nlru 0.904548 diff 107075
+trace-hmmer plru 1483 / 5056 mr 0.293315 with 225449 flips ; nlru 798 / 5381 mr 0.1483 with 118374 flips
+bad input here
+count 17000000
+count 11000000
+count 13000000
+count 17000000
+count 19000000
+count 10000000
+count 22000000
+bad input here
+count 10000000
+bad input here
+count 12000000
+count 18000000
+count 10000000
+count 9000000
+trace-leslie3d at 18 switched to plru 0.142316 diff 237595
+trace-leslie3d plru 7086 / 11056 mr 0.640919 with 1431889 flips ; nlru 9210 / 11818 mr 0.77932 with 1669484 flips
+count 12000000
+count 9000000
+count 23000000
+count 14000000
+trace-soplex at 28 switched to plru 0.416581 diff 187436
+trace-soplex plru 2236 / 7293 mr 0.306595 with 262503 flips ; nlru 4475 / 7848 mr 0.570209 with 449939 flips
+count 18000000
+count 6000000
+count 20000000
+count 19000000
+bad input here
+trace-soplex at 29 switched to nlru 1.77825 diff 235001
+trace-soplex plru 4995 / 6714 mr 0.743968 with 367154 flips ; nlru 2321 / 7201 mr 0.322316 with 132153 flips
+count 11000000
+count 11000000
+count 24000000
+bad input here
+count 13000000
+count 13000000
+done
+count 19000000
+count 15000000
+count 21000000
+count 20000000
+count 10000000
+count 11000000
+count 10000000
+trace-bzip2 at 43 switched to nlru 0.718898 diff 16567
+trace-bzip2 plru 243 / 6953 mr 0.0349489 with 39612 flips ; nlru 163 / 7417 mr 0.0219765 with 23045 flips
+bad input here
+trace-soplex at 31 switched to plru 0.227668 diff 68643
+trace-soplex plru 3093 / 7265 mr 0.42574 with 232862 flips ; nlru 4019 / 7733 mr 0.519721 with 301505 flips
+count 14000000
+count 21000000
+count 20000000
+trace-xalancbmk at 40 switched to nlru 0.173127 diff 28694
+trace-xalancbmk plru 2000 / 14033 mr 0.142521 with 194434 flips ; nlru 1789 / 15569 mr 0.114908 with 165740 flips
+count 12000000
+count 7000000
+count 22000000
+trace-bzip2 at 44 switched to plru 0.858188 diff 8684
+trace-bzip2 plru 8 / 7108 mr 0.00112549 with 1435 flips ; nlru 63 / 7807 mr 0.00806968 with 10119 flips
+count 14000000
+count 16000000
+trace-soplex at 32 switched to nlru 1.08772 diff 238322
+trace-soplex plru 5397 / 6935 mr 0.778226 with 457425 flips ; nlru 2916 / 7439 mr 0.391988 with 219103 flips
+count 12000000
+count 23000000
+trace-bzip2 at 46 switched to nlru 0.44965 diff 25470
+trace-bzip2 plru 468 / 6688 mr 0.0699761 with 82114 flips ; nlru 429 / 7258 mr 0.0591072 with 56644 flips
+bad input here
+count 11000000
+trace-leslie3d at 22 switched to nlru 0.151716 diff 224961
+trace-leslie3d plru 8414 / 9478 mr 0.88774 with 1707740 flips ; nlru 8858 / 10268 mr 0.86268 with 1482779 flips
+trace-soplex at 33 switched to plru 0.431447 diff 195465
+trace-soplex plru 2291 / 7018 mr 0.326446 with 257580 flips ; nlru 4316 / 7528 mr 0.573326 with 453045 flips
+count 11000000
+bad input here
+count 22000000
+count 12000000
+count 21000000
+count 15000000
+count 17000000
+trace-soplex at 34 switched to nlru 1.03019 diff 181234
+trace-soplex plru 4872 / 6828 mr 0.713533 with 357157 flips ; nlru 2846 / 7349 mr 0.387264 with 175923 flips
+count 24000000
+trace-bzip2 at 48 switched to plru 0.169091 diff 31649
+trace-bzip2 plru 1187 / 8349 mr 0.142173 with 155522 flips ; nlru 1191 / 9163 mr 0.129979 with 187171 flips
+count 13000000
+count 15000000
+bad input here
+count 23000000
+count 8000000
+count 13000000
+count 22000000
+count 25000000
+trace-bzip2 at 50 switched to nlru 1.48099 diff 17529
+trace-bzip2 plru 180 / 7064 mr 0.0254813 with 29365 flips ; nlru 76 / 7749 mr 0.00980772 with 11836 flips
+count 16000000
+count 13000000
+trace-xalancbmk at 45 switched to plru 0.167575 diff 50050
+trace-xalancbmk plru 2569 / 13845 mr 0.185554 with 248622 flips ; nlru 3286 / 15576 mr 0.210966 with 298672 flips
+count 24000000
+bad input here
+count 18000000
+trace-soplex at 36 switched to plru 0.433621 diff 156555
+trace-soplex plru 2333 / 7389 mr 0.31574 with 204486 flips ; nlru 4135 / 7913 mr 0.522558 with 361041 flips
+count 12000000
+trace-milc at 24 switched to plru 0.126091 diff 263961
+trace-milc plru 9918 / 9995 mr 0.992296 with 1829458 flips ; nlru 11004 / 11036 mr 0.9971 with 2093419 flips
+count 12000000
+bad input here
+count 16000000
+count 26000000
+trace-bzip2 at 52 switched to plru 0.461797 diff 190198
+trace-bzip2 plru 1673 / 8512 mr 0.196546 with 221667 flips ; nlru 2456 / 9332 mr 0.26318 with 411865 flips
+bad input here
+count 14000000
+count 23000000
+bad input here
+trace-soplex at 37 switched to nlru 1.85409 diff 213637
+trace-soplex plru 4480 / 6315 mr 0.709422 with 328862 flips ; nlru 1841 / 6789 mr 0.271174 with 115225 flips
+done
+count 17000000
+count 25000000
+count 19000000
+count 14000000
+count 24000000
+count 9000000
+count 17000000
+count 14000000
+count 13000000
+count 18000000
+count 26000000
+count 15000000
+count 13000000
+count 20000000
+count 25000000
+count 15000000
+count 27000000
+count 19000000
+trace-soplex at 41 switched to plru 0.424062 diff 185366
+trace-soplex plru 2160 / 7112 mr 0.303712 with 251754 flips ; nlru 4220 / 7627 mr 0.553297 with 437120 flips
+bad input here
+bad input here
+bad input here
+count 15000000
+count 14000000
+count 26000000
+bad input here
+count 16000000
+bad input here
+bad input here
+done
+count 21000000
+trace-soplex at 42 switched to nlru 1.25504 diff 205827
+trace-soplex plru 4946 / 6718 mr 0.736231 with 369827 flips ; nlru 2860 / 7215 mr 0.396396 with 164000 flips
+count 28000000
+count 10000000
+count 16000000
+bad input here
+count 20000000
+bad input here
+count 19000000
+count 27000000
+count 29000000
+count 15000000
+count 22000000
+trace-soplex at 44 switched to plru 0.358533 diff 114196
+trace-soplex plru 2484 / 7448 mr 0.333512 with 204313 flips ; nlru 3863 / 7975 mr 0.484389 with 318509 flips
+count 17000000
+count 16000000
+count 21000000
+bad input here
+bad input here
+trace-soplex at 45 switched to nlru 2.23233 diff 225517
+trace-soplex plru 4620 / 6311 mr 0.732055 with 326540 flips ; nlru 1723 / 6753 mr 0.255146 with 101023 flips
+count 30000000
+count 28000000
+count 17000000
+count 20000000
+count 23000000
+trace-soplex at 46 switched to plru 0.104755 diff 52642
+trace-soplex plru 3908 / 7177 mr 0.544517 with 449881 flips ; nlru 4741 / 7816 mr 0.606576 with 502523 flips
+count 11000000
+count 22000000
+count 16000000
+count 31000000
+count 18000000
+bad input here
+count 29000000
+bad input here
+trace-soplex at 47 switched to nlru 0.240122 diff 58862
+trace-soplex plru 4010 / 7211 mr 0.556095 with 303996 flips ; nlru 3764 / 7698 mr 0.488958 with 245134 flips
+bad input here
+count 17000000
+count 24000000
+count 21000000
+count 32000000
+count 18000000
+count 23000000
+count 30000000
+bad input here
+bad input here
+count 17000000
+bad input here
+trace-soplex at 49 switched to plru 0.377582 diff 159070
+trace-soplex plru 2447 / 7627 mr 0.320834 with 262216 flips ; nlru 4554 / 8199 mr 0.555434 with 421286 flips
+count 19000000
+count 33000000
+bad input here
+bad input here
+count 25000000
+bad input here
+count 31000000
+count 19000000
+count 18000000
+count 22000000
+count 12000000
+bad input here
+count 34000000
+bad input here
+bad input here
+count 18000000
+bad input here
+count 32000000
+bad input here
+count 25000000
+bad input here
+count 20000000
+count 26000000
+trace-soplex at 52 switched to plru 0.258936 diff 76500
+trace-soplex plru 2872 / 7294 mr 0.393748 with 218940 flips ; nlru 3875 / 7787 mr 0.497624 with 295440 flips
+count 19000000
+count 35000000
+count 23000000
+trace-soplex at 53 switched to nlru 0.757387 diff 192190
+trace-soplex plru 5296 / 6732 mr 0.78669 with 445944 flips ; nlru 3086 / 7246 mr 0.42589 with 253754 flips
+bad input here
+count 20000000
+count 33000000
+count 26000000
+count 36000000
+count 27000000
+trace-soplex at 54 switched to plru 0.411955 diff 180405
+trace-soplex plru 2283 / 7322 mr 0.3118 with 257519 flips ; nlru 4462 / 7833 mr 0.569641 with 437924 flips
+count 19000000
+count 21000000
+count 34000000
+count 20000000
+trace-soplex at 55 switched to nlru 1.62416 diff 222234
+trace-soplex plru 5021 / 6636 mr 0.756631 with 359064 flips ; nlru 2573 / 7074 mr 0.363726 with 136830 flips
+bad input here
+count 24000000
+bad input here
+count 37000000
+count 27000000
+count 13000000
+count 28000000
+count 21000000
+count 35000000
+count 38000000
+bad input here
+count 20000000
+trace-soplex at 57 switched to plru 0.379869 diff 115829
+trace-soplex plru 2484 / 7222 mr 0.343949 with 189089 flips ; nlru 3818 / 7677 mr 0.49733 with 304918 flips
+count 22000000
+count 28000000
+bad input here
+count 21000000
+count 25000000
+bad input here
+count 29000000
+trace-soplex at 58 switched to nlru 0.907945 diff 222522
+trace-soplex plru 5678 / 6910 mr 0.821708 with 467605 flips ; nlru 3144 / 7423 mr 0.423548 with 245083 flips
+count 39000000
+count 36000000
+trace-soplex at 59 switched to plru 0.392029 diff 170869
+trace-soplex plru 2253 / 7385 mr 0.305078 with 264989 flips ; nlru 4374 / 7880 mr 0.555076 with 435858 flips
+count 21000000
+count 29000000
+count 22000000
+count 22000000
+count 40000000
+count 26000000
+count 23000000
+count 37000000
+count 30000000
+trace-soplex at 60 switched to nlru 1.62499 diff 229947
+trace-soplex plru 5156 / 6666 mr 0.773477 with 371454 flips ; nlru 2535 / 7127 mr 0.35569 with 141507 flips
+bad input here
+count 14000000
+count 41000000
+count 30000000
+count 38000000
+bad input here
+bad input here
+count 23000000
+count 22000000
+count 23000000
+count 27000000
+count 31000000
+trace-soplex at 62 switched to plru 0.266858 diff 79473
+trace-soplex plru 2813 / 7292 mr 0.385765 with 218337 flips ; nlru 3861 / 7766 mr 0.497167 with 297810 flips
+done
+count 42000000
+trace-soplex at 63 switched to nlru 1.20228 diff 252523
+trace-soplex plru 5582 / 6940 mr 0.804323 with 462559 flips ; nlru 2960 / 7434 mr 0.398171 with 210036 flips
+count 31000000
+count 39000000
+bad input here
+count 43000000
+count 24000000
+bad input here
+count 32000000
+trace-soplex at 64 switched to plru 0.362566 diff 169090
+trace-soplex plru 2888 / 7063 mr 0.408891 with 297280 flips ; nlru 4573 / 7616 mr 0.600446 with 466370 flips
+count 24000000
+count 28000000
+count 23000000
+count 32000000
+count 40000000
+trace-soplex at 65 switched to nlru 1.08438 diff 171658
+trace-soplex plru 4634 / 6292 mr 0.736491 with 329959 flips ; nlru 2523 / 6749 mr 0.373833 with 158301 flips
+count 15000000
+count 44000000
+bad input here
+count 33000000
+count 25000000
+count 41000000
+count 33000000
+count 45000000
+count 25000000
+count 29000000
+trace-soplex at 67 switched to plru 0.214642 diff 69816
+trace-soplex plru 2952 / 7447 mr 0.396401 with 255451 flips ; nlru 4058 / 7938 mr 0.511212 with 325267 flips
+count 24000000
+count 34000000
+trace-soplex at 68 switched to nlru 1.643 diff 202247
+trace-soplex plru 4556 / 6303 mr 0.72283 with 325343 flips ; nlru 1988 / 6738 mr 0.295043 with 123096 flips
+count 46000000
+count 42000000
+count 34000000
+bad input here
+bad input here
+bad input here
+count 30000000
+count 16000000
+count 26000000
+bad input here
+count 26000000
+bad input here
+count 47000000
+count 25000000
+count 43000000
+count 35000000
+count 35000000
+bad input here
+bad input here
+bad input here
+count 48000000
+bad input here
+count 31000000
+count 44000000
+count 27000000
+count 36000000
+count 27000000
+count 26000000
+count 36000000
+trace-soplex at 72 switched to plru 0.159691 diff 68179
+trace-soplex plru 3195 / 7716 mr 0.414075 with 358763 flips ; nlru 4556 / 8318 mr 0.547728 with 426942 flips
+count 17000000
+count 49000000
+trace-soplex at 73 switched to nlru 2.00205 diff 239179
+trace-soplex plru 5094 / 6533 mr 0.779734 with 358646 flips ; nlru 2436 / 6960 mr 0.35 with 119467 flips
+count 45000000
+count 37000000
+count 32000000
+count 50000000
+count 37000000
+count 28000000
+count 28000000
+count 46000000
+count 27000000
+count 51000000
+count 38000000
+bad input here
+bad input here
+count 18000000
+count 38000000
+count 33000000
+count 47000000
+count 29000000
+count 52000000
+bad input here
+count 39000000
+count 29000000
+trace-soplex at 77 switched to plru 0.283004 diff 132141
+trace-soplex plru 3171 / 6994 mr 0.453389 with 334782 flips ; nlru 4568 / 7563 mr 0.603993 with 466923 flips
+count 28000000
+count 48000000
+count 39000000
+trace-soplex at 78 switched to nlru 1.03675 diff 177236
+trace-soplex plru 4832 / 6965 mr 0.693754 with 348190 flips ; nlru 2678 / 7409 mr 0.361452 with 170954 flips
+count 53000000
+count 34000000
+count 40000000
+count 30000000
+count 49000000
+count 19000000
+count 30000000
+count 29000000
+count 54000000
+bad input here
+count 40000000
+trace-soplex at 80 switched to plru 0.143559 diff 52433
+trace-soplex plru 3084 / 7601 mr 0.405736 with 312804 flips ; nlru 4301 / 8131 mr 0.528963 with 365237 flips
+count 41000000
+bad input here
+count 35000000
+trace-soplex at 81 switched to nlru 2.5377 diff 257467
+trace-soplex plru 5049 / 6530 mr 0.773201 with 358924 flips ; nlru 1885 / 6951 mr 0.271184 with 101457 flips
+count 50000000
+count 55000000
+count 31000000
+count 30000000
+count 41000000
+count 31000000
+count 42000000
+bad input here
+count 56000000
+count 51000000
+count 36000000
+count 20000000
+bad input here
+count 42000000
+count 57000000
+bad input here
+count 43000000
+count 32000000
+count 52000000
+count 31000000
+count 32000000
+trace-soplex at 85 switched to plru 0.117102 diff 47775
+trace-soplex plru 2997 / 7260 mr 0.41281 with 360204 flips ; nlru 4236 / 7799 mr 0.543147 with 407979 flips
+count 58000000
+count 37000000
+count 43000000
+trace-soplex at 86 switched to nlru 1.27723 diff 202070
+trace-soplex plru 5190 / 6763 mr 0.767411 with 360279 flips ; nlru 2594 / 7235 mr 0.358535 with 158209 flips
+count 44000000
+count 53000000
+count 59000000
+bad input here
+count 33000000
+count 21000000
+count 32000000
+count 33000000
+count 54000000
+count 38000000
+count 45000000
+count 44000000
+trace-soplex at 88 switched to plru 0.153015 diff 46763
+trace-soplex plru 3067 / 7423 mr 0.413175 with 258848 flips ; nlru 3850 / 7834 mr 0.491448 with 305611 flips
+count 60000000
+trace-soplex at 89 switched to nlru 1.31867 diff 268169
+trace-soplex plru 5842 / 7188 mr 0.812743 with 471533 flips ; nlru 3036 / 7670 mr 0.395828 with 203364 flips
+count 33000000
+count 61000000
+count 55000000
+count 34000000
+count 34000000
+count 46000000
+count 39000000
+count 45000000
+trace-soplex at 90 switched to plru 0.242055 diff 112862
+trace-soplex plru 3103 / 7007 mr 0.442843 with 353403 flips ; nlru 4508 / 7550 mr 0.597086 with 466265 flips
+count 22000000
+count 62000000
+trace-soplex at 91 switched to nlru 0.821685 diff 170134
+trace-soplex plru 5062 / 7041 mr 0.718932 with 377189 flips ; nlru 3253 / 7497 mr 0.433907 with 207055 flips
+count 56000000
+bad input here
+bad input here
+count 47000000
+count 34000000
+done
+count 63000000
+count 46000000
+count 40000000
+count 35000000
+count 35000000
+count 64000000
+trace-soplex at 93 switched to plru 0.228678 diff 92883
+trace-soplex plru 2956 / 7623 mr 0.387774 with 313290 flips ; nlru 4471 / 8262 mr 0.541152 with 406173 flips
+count 48000000
+count 35000000
+count 47000000
+trace-soplex at 94 switched to nlru 1.36852 diff 176399
+trace-soplex plru 4034 / 6190 mr 0.651696 with 305297 flips ; nlru 1665 / 6643 mr 0.25064 with 128898 flips
+bad input here
+count 23000000
+bad input here
+count 65000000
+bad input here
+count 41000000
+count 36000000
+count 49000000
+count 36000000
+count 66000000
+count 48000000
+trace-soplex at 96 switched to plru 0.164719 diff 64408
+trace-soplex plru 3074 / 7517 mr 0.40894 with 326610 flips ; nlru 4436 / 8083 mr 0.548806 with 391018 flips
+count 36000000
+trace-soplex at 97 switched to nlru 1.66441 diff 221212
+trace-soplex plru 4695 / 6390 mr 0.734742 with 354119 flips ; nlru 1921 / 6819 mr 0.281713 with 132907 flips
+count 42000000
+count 50000000
+count 67000000
+count 37000000
+count 49000000
+count 37000000
+count 24000000
+bad input here
+count 51000000
+count 37000000
+count 68000000
+trace-soplex at 99 switched to plru 0.15034 diff 45991
+trace-soplex plru 3130 / 7495 mr 0.417612 with 259922 flips ; nlru 3877 / 7944 mr 0.488041 with 305913 flips
+count 43000000
+bad input here
+count 50000000
+trace-soplex at 100 switched to nlru 1.53526 diff 214110
+trace-soplex plru 4691 / 6608 mr 0.709897 with 353572 flips ; nlru 2053 / 7051 mr 0.291164 with 139462 flips
+bad input here
+count 38000000
+count 69000000
+count 52000000
+count 38000000
+count 44000000
+count 25000000
+count 38000000
+count 51000000
+count 70000000
+count 53000000
+count 39000000
+count 39000000
+bad input here
+bad input here
+count 45000000
+count 39000000
+count 71000000
+count 52000000
+trace-soplex at 104 switched to plru 0.236477 diff 101179
+trace-soplex plru 2818 / 7435 mr 0.379018 with 326681 flips ; nlru 4390 / 7993 mr 0.549231 with 427860 flips
+count 54000000
+count 26000000
+trace-soplex at 105 switched to nlru 1.91201 diff 248079
+trace-soplex plru 5168 / 6696 mr 0.771804 with 377827 flips ; nlru 2041 / 7130 mr 0.286255 with 129748 flips
+count 40000000
+count 72000000
+count 40000000
+count 53000000
+count 55000000
+bad input here
+count 46000000
+count 40000000
+count 41000000
+count 73000000
+count 27000000
+count 56000000
+count 54000000
+count 47000000
+bad input here
+count 41000000
+bad input here
+count 42000000
+count 41000000
+count 74000000
+count 57000000
+count 28000000
+trace-bwaves at 56 switched to plru 0.230212 diff 49427
+trace-bwaves plru 5175 / 5210 mr 0.993282 with 165275 flips ; nlru 5485 / 5594 mr 0.980515 with 214702 flips
+count 55000000
+bad input here
+bad input here
+bad input here
+count 43000000
+trace-soplex at 111 switched to plru 0.175878 diff 76645
+trace-soplex plru 2925 / 7114 mr 0.411161 with 359139 flips ; nlru 4207 / 7618 mr 0.552245 with 435784 flips
+count 48000000
+count 75000000
+done
+count 58000000
+count 42000000
+count 42000000
+count 56000000
+trace-soplex at 112 switched to nlru 1.83096 diff 265996
+trace-soplex plru 5794 / 7170 mr 0.808089 with 411273 flips ; nlru 2800 / 7648 mr 0.366109 with 145277 flips
+count 44000000
+count 59000000
+count 76000000
+count 49000000
+bad input here
+count 43000000
+count 57000000
+count 43000000
+bad input here
+count 45000000
+count 60000000
+count 77000000
+bad input here
+count 58000000
+trace-soplex at 116 switched to plru 0.108951 diff 37623
+trace-soplex plru 3065 / 7389 mr 0.414806 with 307696 flips ; nlru 4046 / 7968 mr 0.507781 with 345319 flips
+count 50000000
+bad input here
+count 44000000
+count 46000000
+count 61000000
+count 44000000
+trace-soplex at 117 switched to nlru 2.3051 diff 257567
+trace-soplex plru 5153 / 6645 mr 0.77547 with 369305 flips ; nlru 1851 / 7133 mr 0.259498 with 111738 flips
+count 78000000
+count 59000000
+count 62000000
+bad input here
+count 51000000
+trace-mcf at 102 switched to plru 0.123779 diff 18812
+trace-mcf plru 4991 / 5903 mr 0.845502 with 133169 flips ; nlru 5584 / 6677 mr 0.836304 with 151981 flips
+count 47000000
+bad input here
+count 79000000
+count 45000000
+bad input here
+count 45000000
+count 60000000
+count 63000000
+count 48000000
+count 52000000
+count 80000000
+trace-soplex at 121 switched to plru 0.126004 diff 55045
+trace-soplex plru 3292 / 7727 mr 0.426039 with 381806 flips ; nlru 4654 / 8351 mr 0.557299 with 436851 flips
+bad input here
+bad input here
+count 46000000
+count 61000000
+trace-soplex at 122 switched to nlru 2.24005 diff 266817
+trace-soplex plru 5001 / 6475 mr 0.772355 with 385929 flips ; nlru 2130 / 6931 mr 0.307315 with 119112 flips
+trace-mcf at 105 switched to nlru 0.562845 diff 93004
+trace-mcf plru 5055 / 9008 mr 0.561168 with 258243 flips ; nlru 4866 / 9556 mr 0.509209 with 165239 flips
+count 46000000
+count 64000000
+count 49000000
+count 53000000
+count 81000000
+count 62000000
+count 65000000
+count 47000000
+count 50000000
+count 47000000
+count 82000000
+count 54000000
+count 66000000
+count 63000000
+trace-soplex at 126 switched to plru 0.142589 diff 60629
+trace-soplex plru 2916 / 7205 mr 0.404719 with 364572 flips ; nlru 4163 / 7752 mr 0.537023 with 425201 flips
+count 51000000
+count 48000000
+count 83000000
+trace-soplex at 127 switched to nlru 1.88718 diff 268315
+trace-soplex plru 5719 / 7115 mr 0.803795 with 410493 flips ; nlru 3009 / 7570 mr 0.39749 with 142178 flips
+count 48000000
+count 55000000
+count 67000000
+count 52000000
+count 84000000
+count 64000000
+count 49000000
+count 68000000
+count 56000000
+count 53000000
+count 49000000
+count 85000000
+count 65000000
+trace-soplex at 131 switched to plru 0.180659 diff 81358
+trace-soplex plru 3106 / 6990 mr 0.444349 with 368982 flips ; nlru 4251 / 7524 mr 0.564992 with 450340 flips
+count 50000000
+count 69000000
+done
+count 54000000
+count 86000000
+count 57000000
+count 66000000
+trace-soplex at 132 switched to nlru 1.63026 diff 251272
+trace-soplex plru 5464 / 7167 mr 0.762383 with 405402 flips ; nlru 2530 / 7636 mr 0.331325 with 154130 flips
+bad input here
+bad input here
+count 50000000
+bad input here
+bad input here
+count 51000000
+count 55000000
+count 87000000
+bad input here
+count 67000000
+bad input here
+count 58000000
+count 51000000
+count 88000000
+count 56000000
+count 52000000
+count 68000000
+trace-soplex at 136 switched to plru 0.172121 diff 76305
+trace-soplex plru 3025 / 7049 mr 0.429139 with 367016 flips ; nlru 4244 / 7564 mr 0.561079 with 443321 flips
+count 59000000
+bad input here
+count 89000000
+trace-soplex at 137 switched to nlru 1.05005 diff 198675
+trace-soplex plru 5101 / 6942 mr 0.734803 with 387880 flips ; nlru 3017 / 7390 mr 0.408254 with 189205 flips
+count 52000000
+count 57000000
+count 53000000
+count 69000000
+count 60000000
+trace-mcf at 120 switched to plru 0.108633 diff 17571
+trace-mcf plru 5123 / 6050 mr 0.846777 with 144175 flips ; nlru 5842 / 6766 mr 0.863435 with 161746 flips
+count 90000000
+count 58000000
+count 53000000
+count 70000000
+count 54000000
+count 91000000
+count 61000000
+trace-mcf at 122 switched to nlru 0.244946 diff 48391
+trace-mcf plru 5023 / 8315 mr 0.604089 with 245949 flips ; nlru 5583 / 9005 mr 0.619989 with 197558 flips
+count 59000000
+bad input here
+bad input here
+count 54000000
+count 71000000
+count 55000000
+count 92000000
+bad input here
+count 62000000
+bad input here
+count 60000000
+count 72000000
+trace-soplex at 144 switched to plru 0.117513 diff 51351
+trace-soplex plru 3231 / 7719 mr 0.418578 with 385630 flips ; nlru 4596 / 8314 mr 0.552803 with 436981 flips
+count 55000000
+count 93000000
+count 56000000
+trace-soplex at 145 switched to nlru 1.91669 diff 242202
+trace-soplex plru 4991 / 6526 mr 0.764787 with 368567 flips ; nlru 2119 / 6917 mr 0.306347 with 126365 flips
+count 63000000
+count 61000000
+count 94000000
+count 73000000
+count 95000000
+bad input here
+bad input here
+count 56000000
+trace-soplex at 147 switched to plru 0.182563 diff 60095
+trace-soplex plru 3141 / 7211 mr 0.435585 with 269079 flips ; nlru 3990 / 7648 mr 0.521705 with 329174 flips
+count 57000000
+count 62000000
+count 64000000
+count 74000000
+trace-soplex at 148 switched to nlru 2.30459 diff 249225
+trace-soplex plru 4505 / 6375 mr 0.706667 with 357368 flips ; nlru 1490 / 6696 mr 0.222521 with 108143 flips
+count 96000000
+count 97000000
+count 58000000
+count 63000000
+count 57000000
+count 65000000
+count 75000000
+count 98000000
+count 99000000
+bad input here
+count 64000000
+count 59000000
+count 76000000
+trace-soplex at 152 switched to plru 0.137169 diff 67070
+trace-soplex plru 3634 / 7136 mr 0.509249 with 421888 flips ; nlru 4512 / 7770 mr 0.580695 with 488958 flips
+count 58000000
+count 66000000
+count 100000000
+trace-soplex at 153 switched to nlru 0.837162 diff 157651
+trace-soplex plru 4533 / 7014 mr 0.646279 with 345967 flips ; nlru 2777 / 7425 mr 0.374007 with 188316 flips
+count 101000000
+count 65000000
+count 77000000
+count 67000000
+count 60000000
+count 59000000
+count 102000000
+count 103000000
+count 78000000
+count 66000000
+count 104000000
+count 68000000
+count 61000000
+count 60000000
+count 105000000
+bad input here
+count 79000000
+bad input here
+count 67000000
+bad input here
+count 106000000
+bad input here
+count 69000000
+count 107000000
+count 62000000
+bad input here
+count 61000000
+count 80000000
+count 108000000
+count 68000000
+bad input here
+count 109000000
+count 70000000
+count 81000000
+bad input here
+bad input here
+count 63000000
+count 62000000
+count 110000000
+trace-soplex at 163 switched to plru 0.148132 diff 64555
+trace-soplex plru 2938 / 7449 mr 0.394415 with 371240 flips ; nlru 4346 / 8076 mr 0.538138 with 435795 flips
+count 69000000
+bad input here
+bad input here
+count 71000000
+trace-mcf at 142 switched to plru 0.11615 diff 21475
+trace-mcf plru 5076 / 6775 mr 0.749225 with 163416 flips ; nlru 5802 / 7166 mr 0.809657 with 184891 flips
+count 111000000
+count 82000000
+trace-soplex at 164 switched to nlru 1.69847 diff 231271
+trace-soplex plru 5078 / 6906 mr 0.735303 with 367435 flips ; nlru 2165 / 7369 mr 0.293798 with 136164 flips
+count 64000000
+count 63000000
+bad input here
+count 70000000
+count 112000000
+count 72000000
+trace-mcf at 144 switched to nlru 0.174872 diff 34416
+trace-mcf plru 5241 / 8073 mr 0.649201 with 231223 flips ; nlru 5596 / 8523 mr 0.656576 with 196807 flips
+count 83000000
+trace-soplex at 166 switched to plru 0.158194 diff 50397
+trace-soplex plru 3125 / 7244 mr 0.431391 with 268180 flips ; nlru 3919 / 7759 mr 0.505091 with 318577 flips
+bad input here
+count 113000000
+trace-soplex at 167 switched to nlru 1.965 diff 222544
+trace-soplex plru 4441 / 6567 mr 0.67626 with 335798 flips ; nlru 1648 / 6979 mr 0.236137 with 113254 flips
+count 65000000
+count 64000000
+bad input here
+bad input here
+bad input here
+count 84000000
+count 73000000
+count 114000000
+trace-lbm at 129 switched to plru 0.128112 diff 28389
+trace-lbm plru 3067 / 5874 mr 0.522131 with 193206 flips ; nlru 6151 / 6277 mr 0.979927 with 221595 flips
+count 72000000
+count 66000000
+count 65000000
+trace-lbm at 130 switched to nlru 0.537035 diff 116941
+trace-lbm plru 5133 / 5873 mr 0.874 with 334694 flips ; nlru 6167 / 6272 mr 0.983259 with 217753 flips
+count 115000000
+count 85000000
+count 74000000
+count 116000000
+trace-soplex at 171 switched to plru 0.151449 diff 65765
+trace-soplex plru 3043 / 7097 mr 0.428773 with 368474 flips ; nlru 4139 / 7679 mr 0.539002 with 434239 flips
+count 117000000
+count 73000000
+count 67000000
+count 66000000
+count 86000000
+trace-soplex at 172 switched to nlru 0.842022 diff 166456
+trace-soplex plru 4578 / 6923 mr 0.661274 with 364142 flips ; nlru 2816 / 7431 mr 0.378953 with 197686 flips
+count 118000000
+count 75000000
+count 119000000
+bad input here
+count 74000000
+count 120000000
+count 87000000
+trace-soplex at 174 switched to plru 0.159531 diff 66378
+trace-soplex plru 3828 / 7625 mr 0.502033 with 349703 flips ; nlru 4903 / 8223 mr 0.596254 with 416081 flips
+count 67000000
+count 68000000
+count 76000000
+count 121000000
+trace-soplex at 175 switched to nlru 1.91478 diff 262487
+trace-soplex plru 5102 / 6559 mr 0.777862 with 399572 flips ; nlru 1923 / 7011 mr 0.274283 with 137085 flips
+count 122000000
+count 75000000
+count 88000000
+count 123000000
+bad input here
+count 77000000
+bad input here
+count 68000000
+bad input here
+count 69000000
+done
+count 76000000
+count 89000000
+count 124000000
+trace-soplex at 179 switched to plru 0.133276 diff 55420
+trace-soplex plru 3211 / 7687 mr 0.417718 with 360409 flips ; nlru 4474 / 8351 mr 0.535744 with 415829 flips
+count 125000000
+count 70000000
+count 69000000
+count 77000000
+count 90000000
+trace-soplex at 180 switched to nlru 3.17658 diff 273739
+trace-soplex plru 4794 / 6457 mr 0.74245 with 359913 flips ; nlru 1356 / 6870 mr 0.19738 with 86174 flips
+count 126000000
+count 71000000
+count 78000000
+count 91000000
+trace-soplex at 182 switched to plru 0.10645 diff 31409
+trace-soplex plru 3060 / 7210 mr 0.424411 with 263649 flips ; nlru 3682 / 7749 mr 0.475158 with 295058 flips
+count 70000000
+count 127000000
+trace-soplex at 183 switched to nlru 1.98339 diff 226457
+trace-soplex plru 4697 / 6320 mr 0.743196 with 340634 flips ; nlru 1872 / 6706 mr 0.279153 with 114177 flips
+count 128000000
+count 129000000
+count 72000000
+count 79000000
+count 92000000
+count 71000000
+count 130000000
+count 93000000
+count 131000000
+count 73000000
+count 80000000
+trace-soplex at 187 switched to plru 0.143725 diff 59369
+trace-soplex plru 3160 / 7684 mr 0.411244 with 353704 flips ; nlru 4423 / 8242 mr 0.536642 with 413073 flips
+count 72000000
+count 132000000
+count 94000000
+trace-soplex at 188 switched to nlru 2.93343 diff 267872
+trace-soplex plru 5024 / 6487 mr 0.774472 with 359189 flips ; nlru 1600 / 6896 mr 0.232019 with 91317 flips
+count 81000000
+count 74000000
+count 133000000
+count 73000000
+bad input here
+bad input here
+count 95000000
+done
+count 82000000
+count 134000000
+count 74000000
+count 96000000
+trace-soplex at 192 switched to plru 0.15415 diff 70338
+trace-soplex plru 3245 / 7024 mr 0.461987 with 385959 flips ; nlru 4306 / 7639 mr 0.563686 with 456297 flips
+count 83000000
+count 135000000
+trace-soplex at 193 switched to nlru 0.940776 diff 173497
+trace-soplex plru 4911 / 6979 mr 0.703682 with 357916 flips ; nlru 2966 / 7402 mr 0.400703 with 184419 flips
+count 136000000
+count 97000000
+count 75000000
+count 84000000
+bad input here
+count 137000000
+count 85000000
+count 98000000
+count 76000000
+trace-soplex at 197 switched to plru 0.132129 diff 55059
+trace-soplex plru 2873 / 7226 mr 0.397592 with 361646 flips ; nlru 4029 / 7795 mr 0.51687 with 416705 flips
+count 138000000
+count 86000000
+count 99000000
+trace-soplex at 198 switched to nlru 1.36272 diff 232630
+trace-soplex plru 5539 / 7007 mr 0.790495 with 403340 flips ; nlru 2880 / 7456 mr 0.386266 with 170710 flips
+count 77000000
+count 139000000
+count 87000000
+count 78000000
+count 100000000
+trace-soplex at 200 switched to plru 0.194736 diff 62647
+trace-soplex plru 2701 / 7240 mr 0.373066 with 259056 flips ; nlru 3837 / 7751 mr 0.495033 with 321703 flips
+count 140000000
+trace-soplex at 201 switched to nlru 1.67617 diff 212503
+trace-soplex plru 4613 / 6351 mr 0.726342 with 339282 flips ; nlru 1891 / 6795 mr 0.278293 with 126779 flips
+count 88000000
+bad input here
+bad input here
+count 101000000
+count 79000000
+count 141000000
+trace-soplex at 203 switched to plru 0.139274 diff 45246
+trace-soplex plru 3188 / 7195 mr 0.443085 with 279625 flips ; nlru 3959 / 7670 mr 0.516167 with 324871 flips
+count 89000000
+count 80000000
+count 102000000
+trace-soplex at 204 switched to nlru 2.01534 diff 216149
+trace-soplex plru 4556 / 6481 mr 0.702978 with 323401 flips ; nlru 1607 / 6910 mr 0.232562 with 107252 flips
+count 142000000
+bad input here
+count 90000000
+count 81000000
+count 103000000
+count 143000000
+count 91000000
+count 144000000
+count 104000000
+trace-soplex at 208 switched to plru 0.113462 diff 46932
+trace-soplex plru 3237 / 7707 mr 0.420008 with 366703 flips ; nlru 4460 / 8256 mr 0.540213 with 413635 flips
+count 82000000
+count 92000000
+count 145000000
+trace-soplex at 209 switched to nlru 2.40914 diff 264764
+trace-soplex plru 4845 / 6472 mr 0.748609 with 374664 flips ; nlru 1764 / 6899 mr 0.255689 with 109900 flips
+count 146000000
+count 105000000
+count 93000000
+count 83000000
+trace-soplex at 211 switched to plru 0.2409 diff 84410
+trace-soplex plru 2778 / 7341 mr 0.378423 with 265985 flips ; nlru 4012 / 7934 mr 0.505672 with 350395 flips
+count 94000000
+count 147000000
+count 106000000
+trace-soplex at 212 switched to nlru 1.57088 diff 223959
+trace-soplex plru 4626 / 6534 mr 0.707989 with 366528 flips ; nlru 2092 / 6928 mr 0.301963 with 142569 flips
+count 148000000
+count 95000000
+count 149000000
+count 84000000
+count 107000000
+trace-soplex at 214 switched to plru 0.149249 diff 47835
+trace-soplex plru 3170 / 7327 mr 0.432646 with 272669 flips ; nlru 3864 / 7847 mr 0.492417 with 320504 flips
+trace-soplex at 215 switched to nlru 2.75079 diff 284506
+trace-soplex plru 4980 / 6583 mr 0.756494 with 387933 flips ; nlru 1544 / 6917 mr 0.223218 with 103427 flips
+count 150000000
+count 96000000
+count 108000000
+count 151000000
+bad input here
+count 85000000
+count 152000000
+count 97000000
+count 109000000
+count 153000000
+bad input here
+bad input here
+count 154000000
+count 86000000
+count 98000000
+count 110000000
+count 155000000
+count 99000000
+count 111000000
+trace-soplex at 222 switched to plru 0.115316 diff 43814
+trace-soplex plru 3103 / 7622 mr 0.407111 with 336132 flips ; nlru 4221 / 8200 mr 0.514756 with 379946 flips
+count 156000000
+count 87000000
+trace-soplex at 223 switched to nlru 1.52095 diff 214433
+trace-soplex plru 4428 / 6540 mr 0.677064 with 355419 flips ; nlru 1914 / 6882 mr 0.278117 with 140986 flips
+count 157000000
+count 100000000
+count 158000000
+count 112000000
+count 159000000
+trace-soplex at 225 switched to plru 0.111955 diff 43023
+trace-soplex plru 3085 / 7626 mr 0.404537 with 341267 flips ; nlru 4242 / 8213 mr 0.516498 with 384290 flips
+count 101000000
+count 160000000
+count 113000000
+trace-soplex at 226 switched to nlru 1.48422 diff 233932
+trace-soplex plru 4790 / 6706 mr 0.714286 with 391545 flips ; nlru 2233 / 6954 mr 0.32111 with 157613 flips
+count 88000000
+count 161000000
+count 162000000
+count 163000000
+count 102000000
+count 164000000
+count 114000000
+count 165000000
+count 166000000
+count 89000000
+count 167000000
+count 103000000
+count 115000000
+count 168000000
+bad input here
+bad input here
+count 90000000
+count 104000000
+count 169000000
+count 116000000
+count 170000000
+bad input here
+bad input here
+count 91000000
+count 117000000
+count 105000000
+count 171000000
+count 172000000
+count 173000000
+count 106000000
+count 118000000
+count 174000000
+bad input here
+count 92000000
+bad input here
+count 175000000
+bad input here
+count 176000000
+count 177000000
+count 178000000
+count 179000000
+count 180000000
+count 119000000
+count 107000000
+count 181000000
+count 93000000
+count 182000000
+trace-soplex at 239 switched to plru 0.126585 diff 43992
+trace-soplex plru 3138 / 7587 mr 0.413602 with 303538 flips ; nlru 4072 / 8088 mr 0.503462 with 347530 flips
+count 183000000
+bad input here
+bad input here
+count 184000000
+count 120000000
+trace-soplex at 240 switched to nlru 2.84093 diff 317159
+trace-soplex plru 5342 / 6851 mr 0.77974 with 428798 flips ; nlru 1881 / 7263 mr 0.258984 with 111639 flips
+count 185000000
+count 108000000
+count 186000000
+count 187000000
+count 94000000
+count 188000000
+count 189000000
+count 121000000
+count 190000000
+count 109000000
+count 191000000
+count 192000000
+bad input here
+bad input here
+count 193000000
+count 122000000
+count 95000000
+bad input here
+count 194000000
+count 110000000
+count 195000000
+count 196000000
+count 123000000
+count 197000000
+count 198000000
+count 96000000
+count 199000000
+trace-soplex at 247 switched to plru 0.144696 diff 66359
+trace-soplex plru 3257 / 7059 mr 0.461397 with 392251 flips ; nlru 4257 / 7636 mr 0.557491 with 458610 flips
+count 111000000
+count 200000000
+count 201000000
+count 124000000
+trace-soplex at 248 switched to nlru 0.829795 diff 183023
+trace-soplex plru 5069 / 7254 mr 0.698787 with 403587 flips ; nlru 3348 / 7586 mr 0.441339 with 220564 flips
+count 202000000
+count 203000000
+count 204000000
+count 97000000
+count 205000000
+bad input here
+bad input here
+count 206000000
+bad input here
+count 112000000
+count 207000000
+count 125000000
+count 208000000
+count 98000000
+count 209000000
+count 210000000
+count 113000000
+count 211000000
+count 126000000
+count 212000000
+count 213000000
+count 214000000
+count 215000000
+count 99000000
+count 216000000
+count 114000000
+count 127000000
+done
+count 217000000
+count 218000000
+count 219000000
+count 220000000
+bad input here
+count 221000000
+count 128000000
+count 100000000
+count 222000000
+count 223000000
+count 224000000
+count 225000000
+count 226000000
+count 129000000
+count 227000000
+bad input here
+count 101000000
+count 228000000
+count 229000000
+count 130000000
+count 230000000
+count 231000000
+count 232000000
+bad input here
+count 131000000
+count 233000000
+count 234000000
+count 235000000
+count 236000000
+count 237000000
+count 238000000
+count 132000000
+count 103000000
+count 239000000
+count 240000000
+count 241000000
+count 242000000
+bad input here
+count 243000000
+count 244000000
+count 133000000
+trace-soplex at 266 switched to plru 0.112491 diff 46257
+trace-soplex plru 2884 / 7226 mr 0.399114 with 364951 flips ; nlru 4019 / 7791 mr 0.515852 with 411208 flips
+count 245000000
+count 246000000
+count 104000000
+count 247000000
+count 248000000
+count 134000000
+count 249000000
+bad input here
+bad input here
+count 250000000
+count 251000000
+count 252000000
+count 105000000
+count 135000000
+count 253000000
+count 254000000
+count 255000000
+count 256000000
+count 136000000
+count 257000000
+count 258000000
+count 106000000
+bad input here
+bad input here
+count 259000000
+count 260000000
+count 261000000
+count 137000000
+count 262000000
+count 263000000
+bad input here
+count 264000000
+count 107000000
+count 265000000
+count 266000000
+count 138000000
+count 267000000
+count 268000000
+trace-soplex at 277 switched to plru 0.161004 diff 57556
+trace-soplex plru 3136 / 7566 mr 0.414486 with 299925 flips ; nlru 4104 / 8155 mr 0.50325 with 357481 flips
+count 269000000
+count 270000000
+count 139000000
+trace-soplex at 278 switched to nlru 2.22321 diff 235978
+trace-soplex plru 4408 / 6449 mr 0.683517 with 342121 flips ; nlru 1429 / 6848 mr 0.208674 with 106143 flips
+count 108000000
+count 271000000
+count 140000000
+trace-soplex at 280 switched to plru 0.183388 diff 59551
+trace-soplex plru 3094 / 7204 mr 0.429484 with 265175 flips ; nlru 3958 / 7664 mr 0.516441 with 324726 flips
+count 272000000
+trace-soplex at 281 switched to nlru 1.70674 diff 224477
+trace-soplex plru 4493 / 6579 mr 0.682931 with 356001 flips ; nlru 1895 / 6964 mr 0.272114 with 131524 flips
+count 109000000
+count 141000000
+count 273000000
+count 142000000
+count 110000000
+trace-soplex at 285 switched to plru 0.126833 diff 56140
+trace-soplex plru 3142 / 7053 mr 0.445484 with 386488 flips ; nlru 4209 / 7590 mr 0.554545 with 442628 flips
+count 274000000
+count 143000000
+trace-soplex at 286 switched to nlru 0.820911 diff 168776
+trace-soplex plru 4891 / 6982 mr 0.700516 with 374372 flips ; nlru 3205 / 7424 mr 0.431708 with 205596 flips
+count 111000000
+count 144000000
+trace-soplex at 288 switched to plru 0.125531 diff 51277
+trace-soplex plru 3169 / 7655 mr 0.413978 with 357205 flips ; nlru 4473 / 8226 mr 0.543764 with 408482 flips
+trace-soplex at 289 switched to nlru 2.23216 diff 254850
+trace-soplex plru 5033 / 6559 mr 0.767343 with 369022 flips ; nlru 1948 / 6937 mr 0.280813 with 114172 flips
+count 275000000
+count 145000000
+count 112000000
+count 146000000
+count 276000000
+trace-soplex at 293 switched to plru 0.122947 diff 59020
+trace-soplex plru 3602 / 7041 mr 0.511575 with 421026 flips ; nlru 4356 / 7602 mr 0.573007 with 480046 flips
+count 113000000
+count 147000000
+trace-soplex at 294 switched to nlru 0.771251 diff 153829
+trace-soplex plru 4906 / 7127 mr 0.688368 with 353283 flips ; nlru 3342 / 7594 mr 0.440084 with 199454 flips
+bad input here
+count 277000000
+count 148000000
+count 114000000
+count 278000000
+count 149000000
+count 115000000
+count 150000000
+count 279000000
+count 116000000
+count 151000000
+count 280000000
+count 152000000
+count 117000000
+count 153000000
+count 281000000
+count 118000000
+count 154000000
+count 155000000
+count 282000000
+count 119000000
+count 156000000
+count 120000000
+count 283000000
+count 157000000
+bad input here
+bad input here
+bad input here
+bad input here
+count 121000000
+count 158000000
+count 284000000
+count 159000000
+count 122000000
+count 160000000
+trace-soplex at 320 switched to plru 0.122804 diff 56593
+trace-soplex plru 3362 / 6982 mr 0.481524 with 404247 flips ; nlru 4193 / 7518 mr 0.557728 with 460840 flips
+trace-soplex at 321 switched to nlru 1.23579 diff 206423
+trace-soplex plru 5197 / 7258 mr 0.716037 with 373460 flips ; nlru 3049 / 7741 mr 0.393877 with 167037 flips
+count 285000000
+bad input here
+count 161000000
+count 123000000
+trace-soplex at 323 switched to plru 0.105316 diff 34649
+trace-soplex plru 3077 / 7528 mr 0.408741 with 294351 flips ; nlru 3862 / 8069 mr 0.478622 with 329000 flips
+count 162000000
+trace-soplex at 324 switched to nlru 1.93018 diff 218938
+trace-soplex plru 4911 / 6386 mr 0.769026 with 332367 flips ; nlru 1875 / 6773 mr 0.276834 with 113429 flips
+count 286000000
+count 124000000
+count 163000000
+count 164000000
+trace-soplex at 328 switched to plru 0.159493 diff 67874
+trace-soplex plru 2850 / 7479 mr 0.381067 with 357687 flips ; nlru 4286 / 8113 mr 0.528288 with 425561 flips
+trace-soplex at 329 switched to nlru 1.16425 diff 191252
+trace-soplex plru 4559 / 6611 mr 0.689608 with 355522 flips ; nlru 2110 / 7022 mr 0.300484 with 164270 flips
+count 125000000
+count 287000000
+count 165000000
+trace-soplex at 331 switched to plru 0.168825 diff 69951
+trace-soplex plru 3085 / 7633 mr 0.404166 with 344390 flips ; nlru 4466 / 8225 mr 0.542979 with 414341 flips
+count 166000000
+trace-soplex at 332 switched to nlru 1.48208 diff 214714
+trace-soplex plru 4532 / 6434 mr 0.704383 with 359587 flips ; nlru 1855 / 6808 mr 0.272474 with 144873 flips
+count 288000000
+count 126000000
+count 167000000
+trace-soplex at 334 switched to plru 0.142459 diff 52655
+trace-soplex plru 3099 / 7621 mr 0.40664 with 316959 flips ; nlru 4225 / 8149 mr 0.518469 with 369614 flips
+trace-soplex at 335 switched to nlru 1.56453 diff 210437
+trace-soplex plru 4755 / 6509 mr 0.730527 with 344942 flips ; nlru 1926 / 6908 mr 0.278807 with 134505 flips
+bad input here
+count 168000000
+count 127000000
+count 289000000
+count 169000000
+done
+trace-soplex at 339 switched to plru 0.136672 diff 56780
+trace-soplex plru 2740 / 7326 mr 0.37401 with 358666 flips ; nlru 4003 / 7897 mr 0.506901 with 415446 flips
+count 170000000
+trace-soplex at 340 switched to nlru 1.46258 diff 234470
+trace-soplex plru 5298 / 6946 mr 0.762741 with 394783 flips ; nlru 2634 / 7349 mr 0.358416 with 160313 flips
+count 128000000
+count 171000000
+trace-soplex at 342 switched to plru 0.183678 diff 66568
+trace-soplex plru 2742 / 7422 mr 0.369442 with 295848 flips ; nlru 4036 / 7964 mr 0.506781 with 362416 flips
+trace-soplex at 343 switched to nlru 2.20535 diff 236162
+trace-soplex plru 5006 / 6524 mr 0.767321 with 343248 flips ; nlru 1833 / 6936 mr 0.264273 with 107086 flips
+count 172000000
+trace-soplex at 345 switched to plru 0.122544 diff 37542
+trace-soplex plru 3403 / 7313 mr 0.465336 with 268813 flips ; nlru 3822 / 7846 mr 0.487127 with 306355 flips
+count 129000000
+trace-lbm at 258 switched to plru 0.107963 diff 24158
+trace-lbm plru 3060 / 5878 mr 0.520585 with 199603 flips ; nlru 6155 / 6281 mr 0.97994 with 223761 flips
+count 173000000
+trace-soplex at 346 switched to nlru 1.42522 diff 258847
+trace-soplex plru 5225 / 6825 mr 0.765568 with 440466 flips ; nlru 2382 / 7298 mr 0.326391 with 181619 flips
+bad input here
+trace-soplex at 347 switched to plru 0.135558 diff 65633
+trace-soplex plru 3636 / 7028 mr 0.517359 with 418536 flips ; nlru 4418 / 7700 mr 0.573766 with 484169 flips
+trace-lbm at 259 switched to nlru 0.483102 diff 114101
+trace-lbm plru 5397 / 5883 mr 0.917389 with 350285 flips ; nlru 6158 / 6257 mr 0.984178 with 236184 flips
+count 174000000
+trace-soplex at 348 switched to nlru 0.401068 diff 91697
+trace-soplex plru 4105 / 7052 mr 0.582104 with 320329 flips ; nlru 3383 / 7550 mr 0.448079 with 228632 flips
+count 175000000
+trace-soplex at 350 switched to plru 0.142132 diff 59810
+trace-soplex plru 2764 / 7377 mr 0.374678 with 360996 flips ; nlru 4106 / 7953 mr 0.516283 with 420806 flips
+trace-soplex at 351 switched to nlru 1.06372 diff 184692
+trace-soplex plru 4883 / 6645 mr 0.734838 with 358320 flips ; nlru 2613 / 7064 mr 0.369904 with 173628 flips
+count 130000000
+count 176000000
+trace-soplex at 353 switched to plru 0.202911 diff 70436
+trace-soplex plru 2930 / 7418 mr 0.394985 with 276692 flips ; nlru 3969 / 7980 mr 0.497368 with 347128 flips
+count 177000000
+trace-soplex at 354 switched to nlru 3.19749 diff 268247
+trace-soplex plru 4996 / 6523 mr 0.765905 with 352140 flips ; nlru 1416 / 6926 mr 0.204447 with 83893 flips
+count 178000000
+count 131000000
+count 179000000
+trace-soplex at 358 switched to plru 0.121608 diff 49904
+trace-soplex plru 2781 / 7197 mr 0.386411 with 360463 flips ; nlru 3960 / 7766 mr 0.509915 with 410367 flips
+trace-soplex at 359 switched to nlru 1.33385 diff 225269
+trace-soplex plru 5387 / 7030 mr 0.766287 with 394155 flips ; nlru 2750 / 7488 mr 0.367254 with 168886 flips
+done
+count 132000000
+count 133000000
+count 134000000
+count 135000000
+count 136000000
+count 137000000
+count 138000000
+count 139000000
+count 140000000
+count 141000000
+count 142000000
+count 143000000
+count 144000000
+count 145000000
+count 146000000
+count 147000000
+count 148000000
+count 149000000
+count 150000000
+count 151000000
+count 152000000
+count 153000000
+count 154000000
+count 155000000
+count 156000000
+count 157000000
+count 158000000
+count 159000000
+count 160000000
+count 161000000
+count 162000000
+bad input here
+count 163000000
+count 164000000
+count 165000000
+count 166000000
+count 167000000
+count 168000000
+count 169000000
+count 170000000
+count 171000000
+count 172000000
+count 173000000
+count 174000000
+count 175000000
+count 176000000
+count 177000000
+count 178000000
+count 179000000
+count 180000000
+count 181000000
+count 182000000
+count 183000000
+count 184000000
+count 185000000
+count 186000000
+count 187000000
+count 188000000
+count 189000000
+count 190000000
+count 191000000
+count 192000000
+count 193000000
+trace-lbm at 387 switched to plru 0.250974 diff 60803
+trace-lbm plru 3065 / 5874 mr 0.521791 with 181465 flips ; nlru 6159 / 6263 mr 0.983395 with 242268 flips
+count 194000000
+trace-lbm at 388 switched to nlru 0.264908 diff 63686
+trace-lbm plru 4667 / 5871 mr 0.794924 with 304094 flips ; nlru 6177 / 6274 mr 0.984539 with 240408 flips
+count 195000000
+bad input here
+count 196000000
+count 197000000
+count 198000000
+count 199000000
+count 200000000
+count 201000000
+count 202000000
+count 203000000
+count 204000000
+count 205000000
+count 206000000
+done

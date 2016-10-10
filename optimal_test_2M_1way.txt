@@ -1,0 +1,13 @@
+total times 1
+evicted_bits 512 512
+optimal_bits 512 512
+sample_bits 512 512
+sample_hit 1
+evicted_is_optimal 1
+0
+0
+hit_in_miss 1
+hit_in_hit 0
+miss_in_miss 2
+miss_in_hit 0
+0 1

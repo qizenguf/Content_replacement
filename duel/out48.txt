@@ -1,0 +1,1477 @@
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+sec size = 1
+Reading trace from:trace-hmmer
+Reading trace from:trace-astar
+sec size = 1
+sec size = 1
+Reading trace from:trace-mcf
+Reading trace from:trace-sphinx3
+Reading trace from:trace-libquantum
+Reading trace from:trace-leslie3d
+sec size = 1
+Reading trace from:trace-gcc
+Reading trace from:trace-gobmk
+Reading trace from:trace-h264
+Reading trace from:trace-soplex
+Reading trace from:trace-bzip2
+sec size = 1
+Reading trace from:trace-xalancbmk
+Reading trace from:trace-lbm
+Reading trace from:trace-bwaves
+bad input here
+count 1000000
+bad input here
+count 1000000
+trace-bzip2 at 1 switched to plru 0.211642 diff 9657 p 45629 n 55286
+count 1000000
+bad input here
+bad input here
+count 1000000
+trace-xalancbmk at 1 switched to plru 0.552188 diff 85217 p 154326 n 239543
+bad input here
+count 1000000
+count 1000000
+trace-perlbench at 1 switched to plru 0.164452 diff 120839 p 734800 n 855639
+count 1000000
+trace-hmmer at 1 switched to plru 0.792814 diff 500110 p 630804 n 1130914
+count 2000000
+count 1000000
+count 1000000
+trace-mcf at 1 switched to plru 0.19882 diff 70032 p 352239 n 422271
+bad input here
+count 1000000
+count 1000000
+trace-libquantum at 1 switched to plru 0.706431 diff 68966 p 97626 n 166592
+count 1000000
+count 1000000
+count 1000000
+trace-astar at 1 switched to plru 0.112003 diff 107567 p 960398 n 1067965
+count 1000000
+count 2000000
+trace-bzip2 at 2 switched to nlru 0.0524877 diff 3552 p 71225 n 67673
+count 1000000
+trace-sphinx3 at 1 switched to plru 0.418842 diff 1270284 p 3032845 n 4303129
+count 2000000
+bad input here
+bad input here
+count 2000000
+count 2000000
+bad input here
+count 2000000
+count 2000000
+bad input here
+bad input here
+count 2000000
+count 2000000
+count 2000000
+count 2000000
+count 2000000
+count 3000000
+count 2000000
+count 2000000
+done
+count 3000000
+bad input here
+count 2000000
+count 2000000
+count 3000000
+trace-bzip2 at 3 switched to plru 0.534543 diff 83207 p 155660 n 238867
+count 3000000
+count 3000000
+trace-soplex at 3 switched to plru 0.187013 diff 153709 p 821916 n 975625
+bad input here
+count 3000000
+count 3000000
+trace-mcf at 3 switched to nlru 0.23146 diff 82786 p 440454 n 357668
+count 3000000
+count 4000000
+count 3000000
+count 4000000
+count 3000000
+trace-milc at 3 switched to plru 0.0618549 diff 136584 p 2208136 n 2344720
+count 3000000
+count 3000000
+bad input here
+count 3000000
+bad input here
+bad input here
+count 4000000
+bad input here
+count 3000000
+bad input here
+count 3000000
+count 4000000
+trace-soplex at 4 switched to nlru 0.137991 diff 72764 p 600075 n 527311
+count 4000000
+bad input here
+count 4000000
+count 4000000
+count 5000000
+count 4000000
+count 4000000
+bad input here
+bad input here
+count 4000000
+count 4000000
+count 5000000
+count 5000000
+trace-hmmer at 5 switched to nlru 0.308517 diff 56032 p 237649 n 181617
+bad input here
+bad input here
+count 4000000
+count 5000000
+count 4000000
+count 5000000
+count 4000000
+count 4000000
+count 5000000
+count 6000000
+bad input here
+count 5000000
+bad input here
+count 6000000
+count 5000000
+count 5000000
+count 6000000
+count 6000000
+trace-hmmer at 6 switched to plru 0.623982 diff 495792 p 794561 n 1290353
+count 6000000
+count 5000000
+count 7000000
+count 5000000
+count 6000000
+count 6000000
+count 5000000
+count 5000000
+count 5000000
+count 6000000
+count 6000000
+count 7000000
+count 7000000
+count 7000000
+count 6000000
+done
+count 8000000
+count 7000000
+count 6000000
+count 6000000
+bad input here
+count 7000000
+count 8000000
+count 7000000
+bad input here
+count 7000000
+count 8000000
+count 6000000
+count 9000000
+count 8000000
+trace-hmmer at 8 switched to nlru 3.0309 diff 184394 p 245232 n 60838
+count 6000000
+count 7000000
+count 8000000
+done
+count 6000000
+count 9000000
+count 9000000
+count 9000000
+count 7000000
+count 8000000
+count 10000000
+count 8000000
+trace-astar at 8 switched to nlru 0.378127 diff 165379 p 602743 n 437364
+count 7000000
+count 10000000
+count 10000000
+count 8000000
+count 7000000
+trace-milc at 7 switched to nlru 0.0543545 diff 151856 p 2945664 n 2793808
+count 10000000
+count 7000000
+count 11000000
+count 7000000
+count 11000000
+count 9000000
+bad input here
+count 8000000
+count 9000000
+count 12000000
+count 11000000
+count 12000000
+count 11000000
+trace-hmmer at 11 switched to plru 1.59386 diff 509173 p 319459 n 828632
+count 8000000
+count 8000000
+count 13000000
+count 10000000
+count 10000000
+count 13000000
+count 8000000
+count 9000000
+count 8000000
+count 8000000
+bad input here
+count 12000000
+trace-hmmer at 12 switched to nlru 1.87793 diff 224738 p 344411 n 119673
+count 12000000
+count 9000000
+count 14000000
+count 14000000
+count 11000000
+bad input here
+count 9000000
+bad input here
+count 9000000
+count 11000000
+count 13000000
+bad input here
+count 13000000
+bad input here
+count 9000000
+count 9000000
+trace-milc at 9 switched to plru 0.0601508 diff 225860 p 3754895 n 3980755
+count 10000000
+count 15000000
+count 9000000
+count 10000000
+count 15000000
+count 16000000
+count 12000000
+count 14000000
+count 14000000
+count 12000000
+count 10000000
+count 10000000
+count 16000000
+count 10000000
+count 17000000
+bad input here
+count 11000000
+count 10000000
+count 11000000
+bad input here
+count 10000000
+count 15000000
+count 15000000
+count 13000000
+bad input here
+count 18000000
+count 13000000
+count 17000000
+trace-bzip2 at 17 switched to nlru 0.354934 diff 11694 p 44641 n 32947
+count 11000000
+bad input here
+count 11000000
+count 11000000
+count 16000000
+bad input here
+count 16000000
+count 12000000
+count 11000000
+count 12000000
+count 11000000
+count 19000000
+count 14000000
+count 14000000
+count 18000000
+trace-bzip2 at 18 switched to plru 0.276805 diff 46258 p 167114 n 213372
+count 12000000
+bad input here
+count 17000000
+trace-hmmer at 17 switched to plru 0.681261 diff 138358 p 203091 n 341449
+count 20000000
+count 17000000
+bad input here
+count 19000000
+bad input here
+bad input here
+count 12000000
+bad input here
+count 15000000
+count 12000000
+count 13000000
+count 13000000
+count 12000000
+count 12000000
+count 15000000
+bad input here
+count 21000000
+bad input here
+count 18000000
+trace-hmmer at 18 switched to nlru 0.794499 diff 129377 p 292218 n 162841
+count 18000000
+count 13000000
+count 20000000
+bad input here
+bad input here
+done
+count 16000000
+count 22000000
+count 13000000
+count 14000000
+count 13000000
+count 16000000
+count 13000000
+count 13000000
+count 19000000
+count 19000000
+count 21000000
+count 14000000
+count 23000000
+count 17000000
+count 15000000
+count 14000000
+count 17000000
+count 20000000
+count 22000000
+trace-bzip2 at 22 switched to nlru 0.106657 diff 3956 p 41047 n 37091
+count 14000000
+count 14000000
+count 24000000
+count 14000000
+count 18000000
+count 15000000
+count 20000000
+trace-hmmer at 20 switched to plru 1.20636 diff 625775 p 518731 n 1144506
+bad input here
+bad input here
+count 23000000
+trace-bzip2 at 23 switched to plru 0.260038 diff 47055 p 180954 n 228009
+count 21000000
+trace-xalancbmk at 21 switched to nlru 0.394512 diff 102766 p 363255 n 260489
+count 16000000
+count 25000000
+count 18000000
+count 15000000
+count 19000000
+count 21000000
+count 15000000
+count 24000000
+count 16000000
+count 26000000
+count 15000000
+count 22000000
+count 20000000
+count 15000000
+count 27000000
+count 25000000
+count 19000000
+count 17000000
+count 22000000
+trace-hmmer at 22 switched to nlru 5.35525 diff 239503 p 284226 n 44723
+count 16000000
+bad input here
+bad input here
+bad input here
+count 23000000
+trace-xalancbmk at 23 switched to plru 0.160739 diff 74023 p 460518 n 534541
+bad input here
+bad input here
+bad input here
+count 17000000
+trace-milc at 17 switched to nlru 0.0518881 diff 120637 p 2445582 n 2324945
+count 16000000
+trace-mcf at 16 switched to plru 0.0620141 diff 19933 p 321427 n 341360
+count 28000000
+count 21000000
+count 26000000
+count 23000000
+done
+count 20000000
+count 24000000
+count 16000000
+count 29000000
+count 16000000
+count 22000000
+count 24000000
+count 18000000
+count 17000000
+bad input here
+count 17000000
+count 25000000
+bad input here
+count 30000000
+done
+bad input here
+count 21000000
+bad input here
+count 18000000
+bad input here
+count 23000000
+bad input here
+count 19000000
+bad input here
+bad input here
+count 17000000
+count 31000000
+count 26000000
+count 18000000
+count 18000000
+count 17000000
+count 24000000
+bad input here
+count 22000000
+count 32000000
+count 27000000
+count 25000000
+count 19000000
+count 19000000
+trace-mcf at 19 switched to nlru 0.120086 diff 43182 p 402775 n 359593
+count 33000000
+bad input here
+count 20000000
+bad input here
+count 28000000
+count 19000000
+count 34000000
+bad input here
+count 26000000
+count 18000000
+count 23000000
+bad input here
+count 18000000
+count 29000000
+count 35000000
+count 20000000
+count 27000000
+count 20000000
+bad input here
+bad input here
+count 30000000
+count 36000000
+count 24000000
+bad input here
+count 20000000
+count 28000000
+count 21000000
+count 19000000
+count 21000000
+count 37000000
+count 31000000
+count 21000000
+trace-milc at 21 switched to plru 0.0781853 diff 160931 p 2058329 n 2219260
+count 19000000
+count 29000000
+count 25000000
+count 38000000
+count 32000000
+count 21000000
+count 22000000
+count 39000000
+count 33000000
+bad input here
+count 30000000
+bad input here
+count 22000000
+count 20000000
+count 40000000
+count 22000000
+count 34000000
+bad input here
+count 31000000
+count 26000000
+count 41000000
+count 35000000
+bad input here
+count 32000000
+count 42000000
+count 22000000
+count 23000000
+bad input here
+count 36000000
+bad input here
+count 20000000
+bad input here
+count 23000000
+count 33000000
+count 43000000
+count 37000000
+count 21000000
+count 27000000
+count 44000000
+count 23000000
+count 24000000
+count 34000000
+count 23000000
+count 24000000
+trace-mcf at 24 switched to plru 0.0527761 diff 17052 p 323101 n 340153
+count 38000000
+count 45000000
+count 35000000
+count 46000000
+count 39000000
+bad input here
+bad input here
+count 21000000
+count 36000000
+count 47000000
+count 40000000
+count 24000000
+count 22000000
+done
+count 25000000
+trace-mcf at 25 switched to nlru 0.218982 diff 79583 p 443006 n 363423
+count 25000000
+bad input here
+bad input here
+count 48000000
+count 37000000
+count 29000000
+count 41000000
+count 49000000
+count 25000000
+count 26000000
+count 38000000
+count 42000000
+bad input here
+bad input here
+bad input here
+count 23000000
+count 50000000
+count 30000000
+count 22000000
+count 39000000
+count 43000000
+count 26000000
+count 51000000
+bad input here
+bad input here
+count 52000000
+count 40000000
+count 26000000
+count 27000000
+count 44000000
+count 53000000
+count 41000000
+count 45000000
+count 24000000
+count 31000000
+count 54000000
+count 42000000
+count 55000000
+count 27000000
+count 46000000
+bad input here
+bad input here
+count 23000000
+bad input here
+count 27000000
+count 28000000
+count 56000000
+bad input here
+count 32000000
+count 47000000
+count 43000000
+count 57000000
+count 25000000
+count 48000000
+count 44000000
+count 58000000
+bad input here
+count 29000000
+count 28000000
+count 33000000
+count 28000000
+count 59000000
+count 49000000
+count 45000000
+count 24000000
+bad input here
+count 60000000
+count 29000000
+count 50000000
+count 26000000
+count 46000000
+count 61000000
+count 34000000
+count 51000000
+count 47000000
+count 30000000
+count 62000000
+count 29000000
+bad input here
+bad input here
+count 30000000
+count 25000000
+count 52000000
+count 63000000
+count 27000000
+count 35000000
+count 48000000
+count 31000000
+count 30000000
+bad input here
+count 64000000
+bad input here
+count 53000000
+count 49000000
+count 65000000
+count 36000000
+count 54000000
+count 66000000
+count 31000000
+count 50000000
+count 32000000
+count 26000000
+count 55000000
+count 28000000
+count 67000000
+count 37000000
+count 51000000
+count 31000000
+count 68000000
+count 56000000
+bad input here
+bad input here
+bad input here
+done
+count 69000000
+count 52000000
+count 38000000
+count 70000000
+bad input here
+count 33000000
+count 53000000
+count 71000000
+count 32000000
+count 29000000
+bad input here
+count 27000000
+count 32000000
+count 72000000
+count 54000000
+count 39000000
+count 73000000
+count 55000000
+count 74000000
+count 34000000
+count 33000000
+count 75000000
+count 30000000
+count 56000000
+count 28000000
+trace-bwaves at 28 switched to plru 0.179029 diff 53789 p 300448 n 354237
+bad input here
+count 40000000
+bad input here
+count 33000000
+bad input here
+bad input here
+count 76000000
+done
+count 34000000
+count 57000000
+count 77000000
+count 35000000
+count 58000000
+count 41000000
+count 78000000
+bad input here
+bad input here
+count 79000000
+count 31000000
+count 35000000
+bad input here
+count 59000000
+count 80000000
+count 34000000
+count 42000000
+count 36000000
+count 81000000
+count 60000000
+count 82000000
+count 36000000
+bad input here
+count 32000000
+count 43000000
+count 83000000
+bad input here
+count 61000000
+count 84000000
+count 37000000
+count 62000000
+count 85000000
+bad input here
+count 37000000
+count 35000000
+count 44000000
+count 86000000
+count 33000000
+count 63000000
+count 38000000
+count 87000000
+count 64000000
+count 88000000
+count 45000000
+count 38000000
+count 89000000
+count 39000000
+count 65000000
+count 34000000
+count 90000000
+count 46000000
+count 36000000
+count 39000000
+count 91000000
+count 66000000
+count 40000000
+count 92000000
+count 47000000
+count 67000000
+count 35000000
+count 93000000
+count 40000000
+count 41000000
+count 94000000
+count 68000000
+count 48000000
+count 95000000
+count 37000000
+count 69000000
+done
+count 96000000
+count 42000000
+count 97000000
+count 49000000
+count 36000000
+count 98000000
+count 99000000
+count 41000000
+count 50000000
+count 100000000
+count 101000000
+count 43000000
+count 102000000
+bad input here
+count 103000000
+count 38000000
+count 42000000
+count 37000000
+count 51000000
+count 104000000
+count 44000000
+count 105000000
+bad input here
+count 106000000
+count 39000000
+count 43000000
+bad input here
+count 52000000
+count 45000000
+bad input here
+count 107000000
+count 38000000
+count 108000000
+count 40000000
+count 44000000
+trace-milc at 44 switched to nlru 0.0863764 diff 242042 p 3044221 n 2802179
+count 109000000
+count 53000000
+bad input here
+bad input here
+bad input here
+count 46000000
+count 110000000
+count 41000000
+count 111000000
+count 39000000
+count 112000000
+count 54000000
+count 42000000
+count 113000000
+bad input here
+bad input here
+count 47000000
+count 114000000
+count 43000000
+count 115000000
+count 55000000
+count 116000000
+count 40000000
+count 44000000
+count 117000000
+count 118000000
+count 45000000
+trace-milc at 45 switched to plru 0.0757823 diff 258961 p 3417171 n 3676132
+count 56000000
+bad input here
+count 45000000
+count 48000000
+count 119000000
+count 120000000
+count 46000000
+count 121000000
+bad input here
+count 41000000
+count 57000000
+count 122000000
+count 47000000
+count 123000000
+bad input here
+count 46000000
+bad input here
+count 49000000
+bad input here
+count 58000000
+count 124000000
+count 42000000
+count 48000000
+bad input here
+count 125000000
+count 50000000
+count 59000000
+count 126000000
+count 49000000
+count 47000000
+count 127000000
+count 43000000
+bad input here
+count 128000000
+count 50000000
+count 48000000
+count 60000000
+count 129000000
+count 51000000
+bad input here
+count 51000000
+bad input here
+count 130000000
+count 61000000
+count 131000000
+count 52000000
+count 44000000
+count 52000000
+count 132000000
+count 49000000
+count 62000000
+count 53000000
+count 133000000
+count 53000000
+count 134000000
+count 54000000
+count 45000000
+count 135000000
+count 63000000
+count 50000000
+count 136000000
+count 54000000
+count 55000000
+bad input here
+bad input here
+count 137000000
+count 64000000
+count 138000000
+count 55000000
+count 46000000
+count 139000000
+count 51000000
+count 65000000
+count 56000000
+count 140000000
+count 56000000
+bad input here
+bad input here
+count 141000000
+count 52000000
+count 66000000
+count 142000000
+bad input here
+bad input here
+count 47000000
+count 57000000
+count 57000000
+bad input here
+count 143000000
+bad input here
+count 144000000
+count 53000000
+trace-milc at 53 switched to nlru 0.0593595 diff 138495 p 2471651 n 2333156
+count 58000000
+count 67000000
+count 145000000
+count 58000000
+count 48000000
+count 146000000
+count 59000000
+count 147000000
+count 59000000
+count 68000000
+bad input here
+count 54000000
+count 148000000
+count 60000000
+count 149000000
+count 69000000
+count 60000000
+count 150000000
+count 61000000
+count 151000000
+count 49000000
+count 70000000
+count 152000000
+count 153000000
+bad input here
+bad input here
+count 154000000
+count 61000000
+count 155000000
+bad input here
+count 62000000
+bad input here
+count 71000000
+count 156000000
+count 62000000
+count 157000000
+count 50000000
+count 63000000
+count 158000000
+count 55000000
+count 72000000
+count 159000000
+count 63000000
+count 160000000
+bad input here
+count 161000000
+bad input here
+count 162000000
+count 73000000
+count 64000000
+count 163000000
+count 64000000
+count 51000000
+count 164000000
+count 74000000
+count 65000000
+count 165000000
+count 65000000
+count 166000000
+count 167000000
+count 75000000
+count 168000000
+bad input here
+count 56000000
+count 66000000
+count 169000000
+count 52000000
+count 66000000
+count 170000000
+bad input here
+count 76000000
+bad input here
+count 171000000
+count 67000000
+count 67000000
+count 172000000
+count 173000000
+count 77000000
+count 68000000
+count 174000000
+count 53000000
+bad input here
+bad input here
+count 175000000
+count 176000000
+count 78000000
+count 177000000
+count 69000000
+count 178000000
+count 179000000
+count 180000000
+count 57000000
+count 68000000
+bad input here
+count 79000000
+count 181000000
+count 54000000
+count 182000000
+count 70000000
+count 183000000
+count 80000000
+bad input here
+bad input here
+count 184000000
+count 185000000
+count 58000000
+trace-milc at 58 switched to plru 0.077042 diff 158976 p 2063497 n 2222473
+count 71000000
+count 186000000
+count 69000000
+count 81000000
+count 187000000
+count 55000000
+count 70000000
+count 188000000
+bad input here
+count 72000000
+bad input here
+count 59000000
+count 82000000
+count 189000000
+count 190000000
+bad input here
+count 191000000
+count 73000000
+bad input here
+count 83000000
+count 192000000
+bad input here
+bad input here
+count 56000000
+bad input here
+bad input here
+count 71000000
+count 193000000
+count 60000000
+count 194000000
+bad input here
+count 74000000
+bad input here
+count 84000000
+count 72000000
+count 195000000
+count 196000000
+count 57000000
+count 85000000
+count 197000000
+count 61000000
+count 75000000
+bad input here
+count 198000000
+bad input here
+count 199000000
+count 86000000
+count 62000000
+bad input here
+count 76000000
+count 73000000
+count 200000000
+count 58000000
+bad input here
+count 201000000
+count 74000000
+count 77000000
+count 87000000
+count 202000000
+count 63000000
+done
+count 203000000
+count 204000000
+count 205000000
+bad input here
+bad input here
+count 206000000
+bad input here
+count 88000000
+count 59000000
+count 207000000
+count 75000000
+count 64000000
+count 208000000
+bad input here
+count 76000000
+count 89000000
+count 209000000
+count 60000000
+count 210000000
+count 77000000
+count 211000000
+count 90000000
+bad input here
+count 65000000
+count 212000000
+count 61000000
+count 213000000
+count 78000000
+count 91000000
+count 214000000
+count 66000000
+count 79000000
+count 215000000
+count 216000000
+count 62000000
+count 92000000
+count 217000000
+count 67000000
+count 218000000
+count 219000000
+count 63000000
+count 80000000
+count 93000000
+count 220000000
+count 68000000
+count 221000000
+count 81000000
+count 94000000
+count 222000000
+count 223000000
+count 82000000
+count 64000000
+count 224000000
+count 95000000
+count 69000000
+count 83000000
+count 225000000
+count 226000000
+count 70000000
+count 96000000
+count 84000000
+count 227000000
+count 65000000
+count 228000000
+count 85000000
+count 71000000
+count 229000000
+count 97000000
+count 66000000
+count 230000000
+bad input here
+count 86000000
+count 72000000
+trace-milc at 72 switched to nlru 0.0551034 diff 128003 p 2450962 n 2322959
+count 231000000
+count 98000000
+count 232000000
+bad input here
+count 87000000
+count 67000000
+count 233000000
+count 99000000
+count 234000000
+count 88000000
+count 73000000
+count 235000000
+count 68000000
+count 236000000
+count 89000000
+count 100000000
+count 237000000
+count 238000000
+count 90000000
+count 101000000
+count 239000000
+count 69000000
+count 74000000
+count 240000000
+count 91000000
+count 102000000
+count 241000000
+bad input here
+count 242000000
+count 92000000
+bad input here
+count 70000000
+count 243000000
+done
+count 244000000
+count 103000000
+count 93000000
+count 245000000
+count 71000000
+count 94000000
+count 246000000
+count 104000000
+count 247000000
+count 95000000
+count 248000000
+count 105000000
+count 249000000
+count 72000000
+bad input here
+bad input here
+count 250000000
+count 251000000
+count 106000000
+count 252000000
+count 253000000
+count 73000000
+count 96000000
+count 254000000
+count 107000000
+count 255000000
+count 256000000
+count 257000000
+count 108000000
+count 74000000
+count 258000000
+bad input here
+bad input here
+bad input here
+count 259000000
+count 260000000
+count 261000000
+count 109000000
+count 262000000
+count 75000000
+count 263000000
+count 110000000
+count 264000000
+count 97000000
+count 265000000
+count 76000000
+count 266000000
+count 111000000
+count 267000000
+count 98000000
+count 268000000
+count 112000000
+count 269000000
+count 77000000
+count 99000000
+count 270000000
+count 113000000
+count 271000000
+count 100000000
+count 101000000
+count 78000000
+count 114000000
+count 102000000
+count 115000000
+count 116000000
+count 79000000
+count 272000000
+count 117000000
+count 118000000
+count 80000000
+bad input here
+bad input here
+count 119000000
+count 103000000
+count 273000000
+count 104000000
+count 120000000
+count 81000000
+count 121000000
+count 122000000
+count 82000000
+count 274000000
+count 123000000
+count 105000000
+count 106000000
+count 124000000
+count 83000000
+count 125000000
+count 275000000
+count 107000000
+count 126000000
+count 127000000
+count 84000000
+count 108000000
+bad input here
+count 128000000
+count 129000000
+count 276000000
+count 85000000
+count 109000000
+count 130000000
+count 131000000
+count 277000000
+count 132000000
+count 86000000
+count 278000000
+bad input here
+count 110000000
+count 133000000
+count 279000000
+count 111000000
+count 87000000
+count 134000000
+count 280000000
+count 135000000
+count 281000000
+count 88000000
+count 136000000
+count 137000000
+count 112000000
+count 89000000
+count 282000000
+bad input here
+count 138000000
+bad input here
+count 113000000
+bad input here
+count 283000000
+count 139000000
+count 90000000
+count 114000000
+count 140000000
+done
+count 284000000
+count 91000000
+count 141000000
+count 142000000
+count 285000000
+bad input here
+count 92000000
+count 143000000
+count 286000000
+count 144000000
+count 93000000
+count 145000000
+count 287000000
+count 146000000
+count 94000000
+count 147000000
+bad input here
+count 288000000
+count 148000000
+count 95000000
+count 149000000
+count 96000000
+count 289000000
+count 150000000
+done
+count 97000000
+count 151000000
+count 98000000
+count 152000000
+count 99000000
+count 153000000
+count 100000000
+count 154000000
+count 155000000
+bad input here
+count 101000000
+count 156000000
+count 157000000
+count 102000000
+bad input here
+bad input here
+bad input here
+bad input here
+count 158000000
+count 103000000
+bad input here
+count 159000000
+count 104000000
+count 160000000
+count 105000000
+count 161000000
+count 106000000
+count 162000000
+count 163000000
+count 107000000
+count 164000000
+count 108000000
+count 165000000
+count 109000000
+count 166000000
+count 167000000
+count 110000000
+bad input here
+count 168000000
+count 111000000
+count 169000000
+count 170000000
+count 112000000
+count 171000000
+count 113000000
+count 172000000
+count 173000000
+count 114000000
+count 174000000
+count 175000000
+count 115000000
+count 176000000
+count 177000000
+count 116000000
+count 178000000
+count 117000000
+count 179000000
+done
+count 118000000
+count 119000000
+count 120000000
+count 121000000
+count 122000000
+count 123000000
+count 124000000
+count 125000000
+count 126000000
+count 127000000
+count 128000000
+count 129000000
+bad input here
+count 130000000
+count 131000000
+count 132000000
+count 133000000
+count 134000000
+count 135000000
+count 136000000
+count 137000000
+count 138000000
+count 139000000
+count 140000000
+count 141000000
+count 142000000
+count 143000000
+count 144000000
+count 145000000
+count 146000000
+count 147000000
+count 148000000
+count 149000000
+count 150000000
+count 151000000
+count 152000000
+count 153000000
+count 154000000
+count 155000000
+count 156000000
+count 157000000
+count 158000000
+count 159000000
+count 160000000
+count 161000000
+count 162000000
+bad input here
+count 163000000
+count 164000000
+count 165000000
+count 166000000
+count 167000000
+count 168000000
+count 169000000
+count 170000000
+count 171000000
+count 172000000
+count 173000000
+count 174000000
+count 175000000
+count 176000000
+count 177000000
+count 178000000
+count 179000000
+count 180000000
+count 181000000
+count 182000000
+count 183000000
+count 184000000
+count 185000000
+count 186000000
+count 187000000
+count 188000000
+count 189000000
+count 190000000
+count 191000000
+count 192000000
+count 193000000
+count 194000000
+count 195000000
+bad input here
+count 196000000
+count 197000000
+count 198000000
+count 199000000
+count 200000000
+count 201000000
+count 202000000
+count 203000000
+count 204000000
+count 205000000
+count 206000000
+done

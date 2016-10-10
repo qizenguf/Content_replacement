@@ -1,0 +1,50 @@
+total times 64039284
+evicted_bits 738854431 11
+optimal_bits 738854431 11
+sample_bits 0 0
+sample_hit 0
+evicted_is_optimal 64039284
+evicted_nearby_bits 204234 7
+optimal_nearby_bits 204234 7
+nearby_times 26656
+hit_in_miss 151265
+hit_in_hit 81543
+miss_in_miss 64071920
+miss_in_hit 132
+hit rate = 0.00362038
+zero input 13444
+zero diff 7676
+zero optimal 7676
+wb times 24895044 old: 24895013
+0 64039284
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
